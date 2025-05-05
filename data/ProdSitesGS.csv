@@ -1,0 +1,297 @@
+BlockCode,ActiveFlag,SubdivisionCode,FarmCode,FarmName,GrowingSystem
+F,TRUE,A,R1021,Riverside Apples,Top-grafted
+L,TRUE,B,R1021,Riverside Apples,Top-grafted
+S,TRUE,C,R1021,Riverside Apples,Top-grafted
+T,TRUE,C,R1021,Riverside Apples,Top-grafted
+A,TRUE,A,R1021,Riverside Apples,Top-grafted
+U,TRUE,C,R1021,Riverside Apples,Top-grafted
+J,TRUE,A,R1021,Riverside Apples,Top-grafted
+N,TRUE,B,R1021,Riverside Apples,Top-grafted
+W,TRUE,C,R1021,Riverside Apples,Top-grafted
+Z,TRUE,C,R1021,Riverside Apples,Top-grafted
+B,TRUE,B,R1095,Willowbank Orchard ,Spindle
+C,TRUE,C,R1095,Willowbank Orchard ,Spindle
+A,TRUE,A,R1149,Steel,Spindle
+B,TRUE,B,R1149,Steel,Spindle
+C,TRUE,C,R1149,Steel,Spindle
+D,TRUE,D,R1149,Steel,Spindle
+D2,TRUE,D,R1230,Home Block,Spindle
+D3,TRUE,D,R1230,Home Block,FOPS
+D1,TRUE,D,R1230,Home Block,FOPS
+A,TRUE,A,R1230,Home Block,FOPS
+B,TRUE,B,R1230,Home Block,FOPS
+C,TRUE,C,R1230,Home Block,Spindle
+E1-7,TRUE,E,R1230,Home Block,Spindle
+E8,TRUE,E,R1230,Home Block,Spindle
+F1,TRUE,F,R1230,Home Block,Spindle
+F2,TRUE,F,R1230,Home Block,FOPS
+A1,TRUE,A,R1232,Raukawa,FOPS
+A2,TRUE,A,R1232,Raukawa,FOPS
+A3,TRUE,A,R1232,Raukawa,FOPS
+A4,TRUE,A,R1232,Raukawa,FOPS
+B1,TRUE,B,R1232,Raukawa,Spindle
+B2,TRUE,B,R1232,Raukawa,Spindle
+B3,TRUE,B,R1232,Raukawa,Spindle
+B4,TRUE,B,R1232,Raukawa,Spindle
+C1,TRUE,C,R1232,Raukawa,Spindle
+C2,TRUE,C,R1232,Raukawa,Spindle
+C3,TRUE,C,R1232,Raukawa,Spindle
+C4,TRUE,C,R1232,Raukawa,Spindle
+A1,TRUE,A,R1233,Te Aute Road North ,Top-grafted
+A2,TRUE,A,R1233,Te Aute Road North ,Top-grafted
+B1,TRUE,B,R1233,Te Aute Road North ,Top-grafted
+B2,TRUE,B,R1233,Te Aute Road North ,Top-grafted
+D,TRUE,D,R1369,Swamp Road,Spindle
+E,TRUE,E,R1369,Swamp Road,Spindle
+A,TRUE,A,R1369,Swamp Road,Spindle
+B,TRUE,B,R1369,Swamp Road,Spindle
+C,TRUE,C,R1369,Swamp Road,Spindle
+F,TRUE,F,R1369,Swamp Road,Spindle
+P1,TRUE,A,R1580,Pioneer Orchard,2D
+P2,TRUE,B,R1580,Pioneer Orchard,2D
+P3,TRUE,B,R1580,Pioneer Orchard,2D
+P4,TRUE,C,R1580,Pioneer Orchard,2D
+P5,TRUE,C,R1580,Pioneer Orchard,2D
+P6,TRUE,D,R1580,Pioneer Orchard,2D
+P7,TRUE,E,R1580,Pioneer Orchard,2D
+C1,TRUE,C,R1611,Okohua Orchard,2D
+1,TRUE,A,R1626,Moa Apples,Top-grafted
+2,TRUE,A,R1626,Moa Apples,Top-grafted
+3,TRUE,A,R1626,Moa Apples,Top-grafted
+4,TRUE,A,R1626,Moa Apples,Top-grafted
+B,TRUE,C,R1626,Moa Apples,Top-grafted
+D,TRUE,B,R1626,Moa Apples,Top-grafted
+E,TRUE,B,R1626,Moa Apples,Top-grafted
+F,TRUE,B,R1626,Moa Apples,Top-grafted
+A,TRUE,C,R1626,Moa Apples,Top-grafted
+C,TRUE,C,R1626,Moa Apples,Top-grafted
+A,TRUE,A,R1639,Napier Road Central,Top-grafted
+B,TRUE,B,R1639,Napier Road Central,Top-grafted
+B1,TRUE,B,R1751,Huawhenua - Home,Top-grafted
+B2,TRUE,B,R1751,Huawhenua - Home,Top-grafted
+A3,TRUE,A,R1751,Huawhenua - Home,Top-grafted
+B1,TRUE,B,R1752,Riverside Orchard,Top-grafted
+B2,TRUE,B,R1752,Riverside Orchard,Top-grafted
+C1,TRUE,C,R1752,Riverside Orchard,Top-grafted
+D2,TRUE,D,R1752,Riverside Orchard,Top-grafted
+ROCK,TRUE,A,R1811,Crystall Road,Spindle
+NTRK,TRUE,B,R1856,Norton,Spindle
+SSRK,TRUE,A,R1862,Sissons,Spindle
+A,TRUE,A,R1899,Oceanview Orchard,Top-grafted
+B,TRUE,B,R1899,Oceanview Orchard,Top-grafted
+C,TRUE,C,R1899,Oceanview Orchard,Top-grafted
+D,TRUE,D,R1899,Oceanview Orchard,Top-grafted
+A1,TRUE,A,R1936,Wharerangi Orchard,Top-grafted
+A2,TRUE,A,R1936,Wharerangi Orchard,Top-grafted
+B1,TRUE,B,R1936,Wharerangi Orchard,Top-grafted
+B2,TRUE,B,R1936,Wharerangi Orchard,Top-grafted
+C1,TRUE,C,R1936,Wharerangi Orchard,Top-grafted
+C2,TRUE,C,R1936,Wharerangi Orchard,Top-grafted
+D,TRUE,D,R1936,Wharerangi Orchard,Top-grafted
+A,TRUE,A,R2124,Global Orchard,Top-grafted
+B,TRUE,B,R2124,Global Orchard,Top-grafted
+C,TRUE,C,R2124,Global Orchard,Top-grafted
+L1,TRUE,A,R2219,Longacre Orchard,Spindle
+L2,TRUE,A,R2219,Longacre Orchard,Spindle
+L3,TRUE,B,R2219,Longacre Orchard,2D
+L4,TRUE,B,R2219,Longacre Orchard,2D
+L5,TRUE,C,R2219,Longacre Orchard,2D
+L6,TRUE,C,R2219,Longacre Orchard,2D
+A,TRUE,A,R2447,WATSON RD,Spindle
+B,TRUE,B,R2447,WATSON RD,Spindle
+B1,TRUE,B,R2534,Stock Roads,Spindle
+B2,TRUE,B,R2534,Stock Roads,Spindle
+D1,TRUE,D,R2534,Stock Roads,Spindle
+D2,TRUE,D,R2534,Stock Roads,Spindle
+D3,TRUE,D,R2534,Stock Roads,Spindle
+E1,TRUE,E,R2534,Stock Roads,Spindle
+E2,TRUE,E,R2534,Stock Roads,Spindle
+F1,TRUE,F,R2534,Stock Roads,Spindle
+F2,TRUE,F,R2534,Stock Roads,Spindle
+A,TRUE,A,R2534,Stock Roads,Spindle
+C,TRUE,C,R2534,Stock Roads,Spindle
+A1,TRUE,A,R2636,Moteo,Spindle
+A2,TRUE,A,R2636,Moteo,Spindle
+B1,TRUE,B,R2636,Moteo,Spindle
+B2,TRUE,B,R2636,Moteo,Spindle
+A,TRUE,A,R2668,Te Aute Road South,Spindle
+C1,TRUE,C,R2710,Cypress,Top-grafted
+A1,TRUE,A,R2710,Cypress,Top-grafted
+A,TRUE,A,R2712,Napier Road South,Spindle
+b,TRUE,B,R2712,Napier Road South,Spindle
+A,TRUE,A,R2724,Omahu,Spindle
+B,TRUE,B,R2724,Omahu,FOPS
+FB,TRUE,B,R2724,Omahu,FOPS
+EAST,TRUE,A,R2732,Sunvalley Orchard,Spindle
+NORTH,TRUE,A,R2732,Sunvalley Orchard,Spindle
+WEST,TRUE,A,R2732,Sunvalley Orchard,Spindle
+B,TRUE,B,R2775,Napier Road North,Spindle
+A,TRUE,A,R2775,Napier Road North,Spindle
+A,TRUE,A,R2776,Haumoana,Spindle
+B,TRUE,B,R2776,Haumoana,Spindle
+C,TRUE,C,R2776,Haumoana,Spindle
+D,TRUE,D,R2776,Haumoana,Spindle
+RK,TRUE,A,R2779,SSL,Spindle
+PPRK1,TRUE,A,R2786,Paki Paki,Spindle
+PPRK2,TRUE,B,R2786,Paki Paki,Spindle
+PHRK,TRUE,A,R2841,Parkhill Orchard,Spindle
+KCR2,TRUE,C,R2850,Korokipo,2D
+KCR3,TRUE,E,R2850,Korokipo,2D
+KPR1,TRUE,H,R2850,Korokipo,2D
+KPR2,TRUE,I,R2850,Korokipo,2D
+KCR1,TRUE,A,R2850,Korokipo,2D
+DR1,TRUE,A,R2851,Dartmoor (Apatu),2D
+DR2,TRUE,C,R2851,Dartmoor (Apatu),2D
+DR3,TRUE,E,R2851,Dartmoor (Apatu),2D
+DR4,TRUE,G,R2851,Dartmoor (Apatu),2D
+DR5,TRUE,I,R2851,Dartmoor (Apatu),2D
+DR6,TRUE,K,R2851,Dartmoor (Apatu),2D
+DR7,TRUE,M,R2851,Dartmoor (Apatu),2D
+KVR1,TRUE,B,R2872,Korokipo Verries,2D
+KVR2,TRUE,D,R2872,Korokipo Verries,2D
+KVR3,TRUE,H,R2872,Korokipo Verries,2D
+KVR4,TRUE,J,R2872,Korokipo Verries,2D
+WPR1,TRUE,A,R2873,Waipatu,2D
+WPR2,TRUE,B,R2873,Waipatu,2D
+WPR3,TRUE,C,R2873,Waipatu,2D
+A1,TRUE,A,R2879,Manzana 1,Spindle
+A2,TRUE,A,R2879,Manzana 1,Spindle
+A3,TRUE,A,R2879,Manzana 1,Spindle
+B1,TRUE,B,R2879,Manzana 1,Spindle
+B2,TRUE,B,R2879,Manzana 1,Spindle
+B3,TRUE,B,R2879,Manzana 1,Spindle
+C1,TRUE,C,R2879,Manzana 1,Spindle
+C2,TRUE,C,R2879,Manzana 1,Spindle
+C3,TRUE,C,R2879,Manzana 1,Spindle
+D1,TRUE,D,R2879,Manzana 1,Spindle
+D2,TRUE,D,R2879,Manzana 1,Spindle
+D,TRUE,D,R2880,Manahi,Spindle
+E,TRUE,E,R2880,Manahi,Spindle
+A1,TRUE,A,R2880,Manahi,Spindle
+A2,TRUE,A,R2880,Manahi,Spindle
+B1,TRUE,B,R2880,Manahi,Spindle
+B2,TRUE,B,R2880,Manahi,Spindle
+F1,TRUE,F,R2880,Manahi,Spindle
+F2,TRUE,F,R2880,Manahi,Spindle
+C,TRUE,C,R2880,Manahi,Spindle
+A1,TRUE,A,R2886,SIM2,Spindle
+A2,TRUE,A,R2886,SIM2,Spindle
+B1,TRUE,B,R2886,SIM2,Spindle
+B2,TRUE,B,R2886,SIM2,Spindle
+A,TRUE,A,R2899,Lobb,Spindle
+B,TRUE,B,R2899,Lobb,Spindle
+A1,TRUE,A,R2900,SIM1,Spindle
+A2,TRUE,A,R2900,SIM1,Spindle
+B1,TRUE,B,R2900,SIM1,Spindle
+B2,TRUE,B,R2900,SIM1,Spindle
+B3,TRUE,B,R2900,SIM1,Spindle
+C1,TRUE,C,R2900,SIM1,Spindle
+C2,TRUE,C,R2900,SIM1,Spindle
+D1,TRUE,D,R2900,SIM1,Spindle
+D2,TRUE,D,R2900,SIM1,Spindle
+A,TRUE,A,R2901,Rangi2,Spindle
+B,TRUE,B,R2901,Rangi2,Spindle
+C,TRUE,C,R2901,Rangi2,Spindle
+A,TRUE,A,R2915,NRL,2D
+B,TRUE,A,R2915,NRL,2D
+A,TRUE,A,R2917,Lawn Rd,2D
+B,TRUE,B,R2917,Lawn Rd,2D
+C,TRUE,C,R2917,Lawn Rd,2D
+D,TRUE,D,R2917,Lawn Rd,2D
+E,TRUE,E,R2917,Lawn Rd,2D
+F,TRUE,F,R2917,Lawn Rd,2D
+3,TRUE,A,R2918,LOWRY,Spindle
+2,TRUE,B,R2918,LOWRY,Spindle
+1,TRUE,C,R2918,LOWRY,Spindle
+5A,TRUE,D,R2918,LOWRY,2D
+5B,TRUE,D,R2918,LOWRY,2D
+9A,TRUE,F,R2918,LOWRY,FOPS
+9B,TRUE,F,R2918,LOWRY,FOPS
+12A,TRUE,G,R2918,LOWRY,Spindle
+12B,TRUE,G,R2918,LOWRY,Spindle
+13,TRUE,H,R2918,LOWRY,Spindle
+A1,TRUE,A,R2919,Valley Road,2D
+A2,TRUE,A,R2919,Valley Road,2D
+B,TRUE,B,R2919,Valley Road,2D
+C,TRUE,C,R2919,Valley Road,2D
+D1,TRUE,D,R2919,Valley Road,2D
+D2,TRUE,D,R2919,Valley Road,2D
+E,TRUE,E,R2919,Valley Road,2D
+F,TRUE,F,R2919,Valley Road,2D
+G,TRUE,G,R2919,Valley Road,2D
+H,TRUE,H,R2919,Valley Road,2D
+I,TRUE,I,R2919,Valley Road,2D
+J1,TRUE,J,R2919,Valley Road,2D
+J2,TRUE,J,R2919,Valley Road,2D
+K,TRUE,K,R2919,Valley Road,2D
+L,TRUE,L,R2919,Valley Road,2D
+M,TRUE,M,R2919,Valley Road,2D
+N,TRUE,N,R2919,Valley Road,2D
+O,TRUE,O,R2919,Valley Road,2D
+P1,TRUE,P,R2919,Valley Road,2D
+P2,TRUE,P,R2919,Valley Road,2D
+Q,TRUE,Q,R2919,Valley Road,2D
+R,TRUE,R,R2919,Valley Road,2D
+S1,TRUE,S,R2919,Valley Road,2D
+S2,TRUE,S,R2919,Valley Road,2D
+T,TRUE,T,R2919,Valley Road,2D
+P8RK,TRUE,E,R2920,Ngati Pahauwera Commercial Development Ltd,2D
+P11RK,TRUE,F,R2920,Ngati Pahauwera Commercial Development Ltd,2D
+P13RK,TRUE,G,R2920,Ngati Pahauwera Commercial Development Ltd,2D
+P16RK,TRUE,H,R2920,Ngati Pahauwera Commercial Development Ltd,2D
+P18RK,TRUE,I,R2920,Ngati Pahauwera Commercial Development Ltd,2D
+A,TRUE,A,R2924,Crown,Spindle
+B,TRUE,B,R2924,Crown,Spindle
+C,TRUE,C,R2924,Crown,Spindle
+D,TRUE,D,R2924,Crown,Spindle
+A,TRUE,A,R2925,Manzana 2,Spindle
+B,TRUE,B,R2925,Manzana 2,Spindle
+C,TRUE,C,R2925,Manzana 2,Spindle
+M5,TRUE,A,R2926,MANA1,2D
+M6,TRUE,A,R2926,MANA1,2D
+M7,TRUE,B,R2926,MANA1,2D
+M8,TRUE,B,R2926,MANA1,2D
+M1,TRUE,A,R2927,MANA2,2D
+M2,TRUE,A,R2927,MANA2,2D
+M3,TRUE,B,R2927,MANA2,2D
+M4,TRUE,B,R2927,MANA2,2D
+B,TRUE,B,R2929,Colaghty Orchard,Spindle
+A,TRUE,A,R2929,Colaghty Orchard,Spindle
+RKT1,TRUE,A,R2933,Braemark,2D
+RKT2,TRUE,B,R2933,Braemark,2D
+ROCK2,TRUE,B,R2934,Karaua,2D
+ROCK4,TRUE,B,R2934,Karaua,2D
+ROCK7,TRUE,C,R2934,Karaua,2D
+ROCK9,TRUE,C,R2934,Karaua,2D
+ROCK10,TRUE,E,R2934,Karaua,2D
+ROCK8,TRUE,E,R2934,Karaua,2D
+ROCK1,TRUE,F,R2934,Karaua,2D
+ROCK3,TRUE,F,R2934,Karaua,2D
+ROCK5,TRUE,F,R2934,Karaua,2D
+ROCK6,TRUE,F,R2934,Karaua,2D
+A,TRUE,A,R2936,Cronien Bun Orchard,2D
+A,TRUE,A,R2937,Stranadariff Orchard,2D
+TA1,TRUE,A,R2944,Te Arai,2D
+TA2,TRUE,A,R2944,Te Arai,2D
+TA3,TRUE,B,R2944,Te Arai,2D
+TA4,TRUE,C,R2944,Te Arai,2D
+TA5,TRUE,C,R2944,Te Arai,2D
+TA6,TRUE,D,R2944,Te Arai,2D
+TA7,TRUE,D,R2944,Te Arai,2D
+TA8,TRUE,E,R2944,Te Arai,2D
+TA9,TRUE,E,R2944,Te Arai,2D
+A,TRUE,A,R2945,Ormond Rd,FOPS
+B,TRUE,B,R2945,Ormond Rd,FOPS
+C,TRUE,C,R2945,Ormond Rd,FOPS
+D,TRUE,D,R2945,Ormond Rd,FOPS
+4,TRUE,A,R2946,Lowry Heretaunga,2D
+8,TRUE,B,R2946,Lowry Heretaunga,2D
+10,TRUE,C,R2946,Lowry Heretaunga,2D
+A,TRUE,A,R2947,Sun Valley,2D
+30,TRUE,M,R2949,Springhill East,2D
+31,TRUE,N,R2949,Springhill East,2D
+32,TRUE,O,R2949,Springhill East,2D
+36,TRUE,S,R2949,Springhill East,2D
+37,TRUE,T,R2949,Springhill East,2D
+S1ROC,TRUE,A,R2954,Wi Pere Trust,2D
+S2ROC,TRUE,A,R2954,Wi Pere Trust,2D

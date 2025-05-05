@@ -1,0 +1,462 @@
+PlantingID,PlantingCode,RootStock,RowSpacing,TreeSpacing,YearPlanted,FirstSeason,Grow System,PIN,Orchard,Address1,TownCity,Latitude,Longitude,OrchardGroupID,Grower,OrchardGroup,PlantingSeasonID,QtyTrees,QtyRows,Hectares,ManagementArea,Subdivision
+1,LONGACR A2,CG202,3.5,1.4,2019,2021,Spindle,R2219,IND- Longacre Orchard (RLA),1795 Korokipo Road,Hastings,-39.5792832,176.7679864,9,Rockit Long Acre,Independent Sector,2240,2173,26,1.124,A2,A
+2,LONGACR C1,M.9,3,1.6,2023,2021,2D,R2219,IND- Longacre Orchard (RLA),1795 Korokipo Road,Hastings,-39.5792832,176.7679864,9,Rockit Long Acre,Independent Sector,2473,4841,32,2.335,C1,C
+4,STEEL A,M.9,3,1.4,2019,2021,Spindle,R1149,Steel,490 Puketitiri Road,Napier,-39.490503,176.816548,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2581,4628,36,2.036,A,A
+5,STEEL B,M.9,3,1.4,2019,2021,Spindle,R1149,Steel,490 Puketitiri Road,Napier,-39.490503,176.816548,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2366,3630,52,1.609,B,B
+6,STEEL C,M.9,3,1.4,2019,2021,Spindle,R1149,Steel,490 Puketitiri Road,Napier,-39.490503,176.816548,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2547,7543,70,3.319,C,C
+7,STEEL D,M.9,3,1.4,2019,2021,Spindle,R1149,Steel,490 Puketitiri Road,Napier,-39.490503,176.816548,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2334,4026,59,1.754,D,D
+16,HME A,CG202,2.2,3,2020,2021,FOPS,R1230,Home Block,83 Stock Road,Hastings,-39.692086,176.812345,3,ROLP 1,Havelock Sector,2490,4709,150,3.219,A,A
+17,HME B,CG202,2.2,3,2020,2021,FOPS,R1230,Home Block,83 Stock Road,Hastings,-39.692086,176.812345,3,ROLP 1,Havelock Sector,2392,4648,133,3.157,B,B
+18,HME C,M.9,3.5,1.4,2012,2021,Spindle,R1230,Home Block,83 Stock Road,Hastings,-39.692086,176.812345,3,ROLP 1,Havelock Sector,2570,6163,36,3.118,C,C
+8,DTM C,M.9,3,1.4,2016,2021,Spindle,R2150,Dartmoor,338 Dartmoor Road,Napier,-39.501152,176.758914,9,ROLP 2,Independent Sector,2264,0,42,1.94628,C,B
+19,HME D1,M.9,2.2,2.4,2020,2021,FOPS,R1230,Home Block,83 Stock Road,Hastings,-39.692086,176.812345,3,ROLP 1,Havelock Sector,2386,1259,25,0.686,D1,D
+9,DTM D,M.9,3,1.4,2016,2021,Spindle,R2150,Dartmoor,338 Dartmoor Road,Napier,-39.501152,176.758914,9,ROLP 2,Independent Sector,2441,0,42,1.9404,D,B
+20,HME D2,M.9,3,1.4,2015,2021,Spindle,R1230,Home Block,83 Stock Road,Hastings,-39.692086,176.812345,3,ROLP 1,Havelock Sector,2286,1425,16,0.592,D2,D
+10,DTM A,M.9,3,1.4,2016,2021,Spindle,R2150,Dartmoor,338 Dartmoor Road,Napier,-39.501152,176.758914,9,ROLP 2,Independent Sector,2230,0,54,1.8627,A,A
+21,HME D3,CG202,2.2,3,2020,2021,FOPS,R1230,Home Block,83 Stock Road,Hastings,-39.692086,176.812345,3,ROLP 1,Havelock Sector,2464,3554,88,2.382,D3,D
+11,DTM B,M.9,3,1.4,2016,2021,Spindle,R2150,Dartmoor,338 Dartmoor Road,Napier,-39.501152,176.758914,9,ROLP 2,Independent Sector,2629,0,20,0.51366,B,A
+22,HME E1-7,M.9/M.26,3.5,1.5,2012,2021,Spindle,R1230,Home Block,83 Stock Road,Hastings,-39.692086,176.812345,3,ROLP 1,Havelock Sector,2252,3953,58,2.631,E1-7,E
+12,HAU A1,M.9,3,1.4,2015,2021,Spindle,R2776,Haumoana,79 Tennant Road,Haumoana,-39.636833,176.925771,11,ROLP 2,Hastings Sector,2306,4416,47,1.886,A1,A
+23,HME E8,M.793,5,1.4,2012,2021,Spindle,R1230,Home Block,83 Stock Road,Hastings,-39.692086,176.812345,3,ROLP 1,Havelock Sector,2431,448,7,0.32,E8,E
+13,HAU B1,M.9,3,1.4,2015,2021,Spindle,R2776,Haumoana,79 Tennant Road,Haumoana,-39.636833,176.925771,11,ROLP 2,Hastings Sector,2600,3909,49,1.691,B1,B
+24,HME F1,M.9,3.5,1.4,2015,2021,Spindle,R1230,Home Block,83 Stock Road,Hastings,-39.692086,176.812345,3,ROLP 1,Havelock Sector,2356,977,7,0.47,F1,F
+14,HAU A2,M.9,3,1.4,2015,2021,Spindle,R2776,Haumoana,79 Tennant Road,Haumoana,-39.636833,176.925771,11,ROLP 2,Hastings Sector,2526,5998,47,2.61,A2,A
+25,HME F2,M.9,2.2,2.4,2020,2021,FOPS,R1230,Home Block,83 Stock Road,Hastings,-39.692086,176.812345,3,ROLP 1,Havelock Sector,2592,3595,44,1.942,F2,F
+15,HAU B2,M.9,3,1.4,2015,2021,Spindle,R2776,Haumoana,79 Tennant Road,Haumoana,-39.636833,176.925771,11,ROLP 2,Hastings Sector,2204,4865,45,2.137,B2,B
+41,RRD A1,CG202,2.2,3,2022,2021,FOPS,R1232,Raukawa,127 Raukawa Road,Hastings,-39.6581759,176.748468,3,ROLP 1,Havelock Sector,2242,1001,47,0.673,A1,A
+42,RRD A5,MM.106,4,2.5,2012,2021,Spindle,R1232,Raukawa,127 Raukawa Road,Hastings,-39.6581759,176.748468,3,ROLP 1,,,,,,,
+43,RRD A4,CG202,2.2,3,2022,2021,FOPS,R1232,Raukawa,127 Raukawa Road,Hastings,-39.6581759,176.748468,3,ROLP 1,Havelock Sector,2319,1951,61,1.293,A4,A
+44,RRD A3,CG202,2.2,3,2022,2021,FOPS,R1232,Raukawa,127 Raukawa Road,Hastings,-39.6581759,176.748468,3,ROLP 1,Havelock Sector,2583,2235,77,1.495,A3,A
+45,RRD A2,CG202,2.2,3,2022,2021,FOPS,R1232,Raukawa,127 Raukawa Road,Hastings,-39.6581759,176.748468,3,ROLP 1,Havelock Sector,2368,1920,66,1.309,A2,A
+46,RRD B1,MM.106,4,2.5,2012,2021,Spindle,R1232,Raukawa,127 Raukawa Road,Hastings,-39.6581759,176.748468,3,ROLP 1,Havelock Sector,2215,2079,13,1.796,B1,B
+47,RRD B4,MM.106,4,2.5,2012,2021,Spindle,R1232,Raukawa,127 Raukawa Road,Hastings,-39.6581759,176.748468,3,ROLP 1,Havelock Sector,2448,1437,10,1.237,B4,B
+48,RRD B3,MM.106,4,2.5,2012,2021,Spindle,R1232,Raukawa,127 Raukawa Road,Hastings,-39.6581759,176.748468,3,ROLP 1,Havelock Sector,2295,1515,10,1.295,B3,B
+49,RRD B2,MM.106,4,2.5,2012,2021,Spindle,R1232,Raukawa,127 Raukawa Road,Hastings,-39.6581759,176.748468,3,ROLP 1,Havelock Sector,2554,1367,9,1.206,B2,B
+50,RRD C1,MM.106,4,2.5,2012,2021,Spindle,R1232,Raukawa,127 Raukawa Road,Hastings,-39.6581759,176.748468,3,ROLP 1,Havelock Sector,2340,1797,13,1.673,C1,C
+51,RRD C4,MM.106,4,2.5,2012,2021,Spindle,R1232,Raukawa,127 Raukawa Road,Hastings,-39.6581759,176.748468,3,ROLP 1,Havelock Sector,2631,517,10,0.412,C4,C
+26,MOT A1,MM.106,3.5,1.6,2012,2021,Spindle,R2636,IND - Moteo Pa,105 Moteo Pa Road,Hastings,-39.519524,176.77209,9,Global Harvest Ltd,Independent Sector,2323,4512,30,2.9,A1,A
+52,RRD C3,MM.106,4,2.5,2012,2021,Spindle,R1232,Raukawa,127 Raukawa Road,Hastings,-39.6581759,176.748468,3,ROLP 1,Havelock Sector,2420,767,10,0.695,C3,C
+27,MOT A2,MM.106,3.5,1.6,2012,2021,Spindle,R2636,IND - Moteo Pa,105 Moteo Pa Road,Hastings,-39.519524,176.77209,9,Global Harvest Ltd,Independent Sector,2225,1481,10,0.9,A2,A
+53,RRD C2,MM.106,4,2.5,2012,2021,Spindle,R1232,Raukawa,127 Raukawa Road,Hastings,-39.6581759,176.748468,3,ROLP 1,Havelock Sector,2266,952,9,0.877,C2,C
+28,MOT B1,M.9,3,1.4,2013,2021,Spindle,R2636,IND - Moteo Pa,105 Moteo Pa Road,Hastings,-39.519524,176.77209,9,Global Harvest Ltd,Independent Sector,2512,1902,12,1.218,B1,B
+56,SRS B2,M.9,3.5,1.4,2007,2021,Spindle,R2534,Stock Road South,70 Stock Road ,Hastings,-39.6892445,176.8124229,3,ROLP 1,Havelock Sector,2606,3028,27,1.52292,B2,B
+29,MOT B2,M.9,3,1.4,2013,2021,Spindle,R2636,IND - Moteo Pa,105 Moteo Pa Road,Hastings,-39.519524,176.77209,9,Global Harvest Ltd,Independent Sector,2220,2290,13,1.07,B2,B
+57,SRS A1,M.9,3.5,1.4,2012,2021,Spindle,R2534,Stock Road South,70 Stock Road ,Hastings,-39.6892445,176.8124229,3,ROLP 1,Havelock Sector,2394,1667,14,0.83888,A1,A
+30,NRC A1,MM.106,4.5,2.5,2015,2021,Twin Leader,R1639,Napier Road Central,428 Napier Road,Hastings,-39.6334528,176.8951717,11,ROLP 2,Hastings Sector,2564,424,8,0.468,A1,A
+58,SRS A2,M.9,3.5,1.4,2012,2021,Spindle,R2534,Stock Road South,70 Stock Road ,Hastings,-39.6892445,176.8124229,3,ROLP 1,Havelock Sector,2236,1175,14,0.59976,A2,A
+31,NRC B1,M.9/M.116,4.5,1.2,2015,2021,Spindle,R1639,Napier Road Central,428 Napier Road,Hastings,-39.6334528,176.8951717,11,ROLP 2,Hastings Sector,2406,458,4,0.27,B1,B
+59,SRS B1,M.9,3.5,1.4,2012,2021,Spindle,R2534,Stock Road South,70 Stock Road ,Hastings,-39.6892445,176.8124229,3,ROLP 1,Havelock Sector,2498,2943,27,1.64346,B1,B
+32,NRN A3,M.9,3,1.4,2015,2021,Spindle,R2775,Napier Road North,438 Napier Road,Havelock North,-39.632707,176.894727,11,ROLP 2,Hastings Sector,2534,2348,32,1.021,A3,A
+60,SRS A3,M.9,3.5,1.4,2011,2021,Spindle,R2534,Stock Road South,70 Stock Road ,Hastings,-39.6892445,176.8124229,3,ROLP 1,Havelock Sector,2288,1590,14,0.84035,A3,A
+33,NRN B1,M.9,3,1.4,2015,2021,Spindle,R2775,Napier Road North,438 Napier Road,Havelock North,-39.632707,176.894727,11,ROLP 2,Hastings Sector,2485,4498,71,1.957,B1,B
+61,SRS A5,MM.106,3.5,1.4,2007,2021,Spindle,R2534,Stock Road South,70 Stock Road ,Hastings,-39.6892445,176.8124229,3,ROLP 1,Havelock Sector,2467,200,2,0.11172,A5,A
+34,OMAHU A1,M.9,3,1.4,2014,2021,Spindle,R2724,Omahu,721 Taihape Road,Hastings,-39.555005,176.698555,10,ROLP 2,Crownthorpe Sector,2302,4354,58,1.85,A1,A
+62,SRS A4,M.9,3.5,1.4,2011,2021,Spindle,R2534,Stock Road South,70 Stock Road ,Hastings,-39.6892445,176.8124229,3,ROLP 1,Havelock Sector,2364,1630,17,0.82026,A4,A
+36,OMAHU A2,M.9,3,1.4,2014,2021,Spindle,R2724,Omahu,721 Taihape Road,Hastings,-39.555005,176.698555,10,ROLP 2,Crownthorpe Sector,2380,3689,55,1.58,A2,A
+63,SRS C1,M.9,3.4,1.4,2013,2021,Spindle,R2534,Stock Road South,70 Stock Road ,Hastings,-39.6892445,176.8124229,3,ROLP 1,Havelock Sector,2545,2466,21,1.184764,C1,C
+37,OMAHU A3,M.9,3,1.4,2013,2021,Spindle,R2724,Omahu,721 Taihape Road,Hastings,-39.555005,176.698555,10,ROLP 2,Crownthorpe Sector,2613,1868,31,0.84,A3,A
+64,SRS C2,M.9,3.4,1.4,2013,2021,Spindle,R2534,Stock Road South,70 Stock Road ,Hastings,-39.6892445,176.8124229,3,ROLP 1,Havelock Sector,2358,2403,21,1.176672,C2,C
+39,OMAHU B3,M.9,3,1.4,2014,2021,Spindle,R2724,Omahu,721 Taihape Road,Hastings,-39.555005,176.698555,10,ROLP 2,Crownthorpe Sector,2275,6417,58,2.76,B3,B
+65,SRS D1,M.9,3.5,1.5,2012,2021,Spindle,R2534,Stock Road South,70 Stock Road ,Hastings,-39.6892445,176.8124229,3,ROLP 1,Havelock Sector,2262,1972,19,1.057875,D1,D
+66,SRS D2,M.9,3.5,1.5,2012,2021,Spindle,R2534,Stock Road South,70 Stock Road ,Hastings,-39.6892445,176.8124229,3,ROLP 1,Havelock Sector,2437,2108,19,1.134,D2,D
+67,TRN A1,M.9/M.26,3.7,1.5,2012,2021,Spindle,R1233,Te Aute Road North,562 Te Aute Road,Hastings,-39.68163,176.818095,3,ROLP 1,Havelock Sector,2227,1914,25,1.109,A1,A
+68,TRN A2,M.9/M.26,3.7,1.5,2012,2021,Spindle,R1233,Te Aute Road North,562 Te Aute Road,Hastings,-39.68163,176.818095,3,ROLP 1,Havelock Sector,2625,1894,25,1.079,A2,A
+69,TRN B1,M.9/M.26,3.7,1.5,2012,2021,Spindle,R1233,Te Aute Road North,562 Te Aute Road,Hastings,-39.68163,176.818095,3,ROLP 1,Havelock Sector,2330,2195,23,1.393,B1,B
+70,TRN B2,M.9/M.26,3.7,1.5,2012,2021,Spindle,R1233,Te Aute Road North,562 Te Aute Road,Hastings,-39.68163,176.818095,3,ROLP 1,Havelock Sector,2566,2105,22,1.359,B2,B
+71,TRS A,M.9,3.5,1.4,2012,2021,Spindle,R2668,Te Aute Road South,659 Te Aute Road,Havelock North,-39.6866487,176.8090255,3,ROLP 1,Havelock Sector,2522,4683,28,2.48,A,A
+72,WHAR A1,MM.106,4.5,2.5,2012,2021,Spindle,R1936,Wharerangi,615 Puketitiri Road,Hastings,-39.481741,176.809195,10,ROLP 1,Crownthorpe Sector,2201,1953,18,1.55,A1,A
+73,WHAR A2,MM.106,4.5,2.5,2012,2021,Spindle,R1936,Wharerangi,615 Puketitiri Road,Hastings,-39.481741,176.809195,10,ROLP 1,Crownthorpe Sector,2486,1365,15,1.3,A2,A
+54,RWR A1,M.9,3,1.4,2016,2021,Spindle,R2447,Watson Road,25  Watson Road,Hastings,-39.626789,176.886742,9,Rockit Watson Road Partnership,Independent Sector,2527,2718,53,1.198,A1,A
+74,WHAR B1,M.9,4.5,2,2012,2021,Spindle,R1936,Wharerangi,615 Puketitiri Road,Hastings,-39.481741,176.809195,10,ROLP 1,Crownthorpe Sector,2414,723,6,0.71,B1,B
+55,RWR B1,M.9,3.5,1.2,2016,2021,Spindle,R2447,Watson Road,25  Watson Road,Hastings,-39.626789,176.886742,9,Rockit Watson Road Partnership,Independent Sector,2315,3810,63,1.723,B1,B
+75,WHAR B2,MM.106,4.5,2,2012,2021,Spindle,R1936,Wharerangi,615 Puketitiri Road,Hastings,-39.481741,176.809195,10,ROLP 1,Crownthorpe Sector,2541,739,6,0.71,B2,B
+76,WHAR C1,MM.106,4.5,2.5,2012,2021,Spindle,R1936,Wharerangi,615 Puketitiri Road,Hastings,-39.481741,176.809195,10,ROLP 1,Crownthorpe Sector,2382,1015,9,0.67,C1,C
+77,WHAR C2,MM.106,4.5,2.5,2012,2021,Spindle,R1936,Wharerangi,615 Puketitiri Road,Hastings,-39.481741,176.809195,10,ROLP 1,Crownthorpe Sector,2282,1090,9,0.67,C2,C
+78,WHAR D,M.9,3,1.4,2013,2021,Spindle,R1936,Wharerangi,615 Puketitiri Road,Hastings,-39.481741,176.809195,10,ROLP 1,Crownthorpe Sector,2461,2461,16,1.07,D,D
+92,MANAHI A1,M.9,3,1.4,2018,2021,Spindle,R2880,Manahi,"188 Stock Road, Pakipaki",Hastings,-39.69614,176.8017,3,Rakete Orchards Limited Partnership,Havelock Sector,2422,4889,50,2.134,A1,A
+35,OMAHU B,M.9,3,1.4,2014,2021,Spindle,R2724,Omahu,721 Taihape Road,Hastings,-39.555005,176.698555,10,ROLP 2,,,,,,,
+38,OMAHU D,M.9,3,1.4,2014,2021,Spindle,R2724,Omahu,721 Taihape Road,Hastings,-39.555005,176.698555,10,ROLP 2,,,,,,,
+40,OMAHU G,M.9,3,1.4,2014,2021,Spindle,R2724,Omahu,721 Taihape Road,Hastings,-39.555005,176.698555,10,ROLP 2,,,,,,,
+79,NRS A3,M.9,3,1.4,2013,2021,Spindle,R2712,Napier Road South,402 Napier Road,Havelock North,-39.636564,176.893214,11,ROLP 2,Hastings Sector,2277,2979,44,1.517,A3,A
+80,NRS B1,M.9,3,1.4,2013,2021,Spindle,R2712,Napier Road South,402 Napier Road,Havelock North,-39.636564,176.893214,11,ROLP 2,Hastings Sector,2509,3893,39,1.834,B1,B
+81,MANZ A1,M.9,3,1.4,2017,2021,Spindle,R2879,IND - Manzana,266 Moteo Pa Road,Hastings,-39.52778,176.75776,9,Manzana Orchard Limited Partnership,Independent Sector,2353,6075,64,2.5515,A1,A
+82,MANZ A2,M.9,3,1.4,2018,2021,Spindle,R2879,IND - Manzana,266 Moteo Pa Road,Hastings,-39.52778,176.75776,9,Manzana Orchard Limited Partnership,Independent Sector,2589,4841,60,2.03322,A2,A
+83,MANZ A3,M.9,3,1.4,2018,2021,Spindle,R2879,IND - Manzana,266 Moteo Pa Road,Hastings,-39.52778,176.75776,9,Manzana Orchard Limited Partnership,Independent Sector,2321,3082,28,1.29444,A3,A
+84,MANZ B1,M.9,3,1.4,2017,2021,Spindle,R2879,IND - Manzana,266 Moteo Pa Road,Hastings,-39.52778,176.75776,9,Manzana Orchard Limited Partnership,Independent Sector,2249,3906,44,1.64052,B1,B
+85,MANZ B2,M.9/M.26,3,1.4,2018,2021,Spindle,R2879,IND - Manzana,266 Moteo Pa Road,Hastings,-39.52778,176.75776,9,Manzana Orchard Limited Partnership,Independent Sector,2481,5404,60,2.26968,B2,B
+86,MANZ B3,M.9,3,1.4,2018,2021,Spindle,R2879,IND - Manzana,266 Moteo Pa Road,Hastings,-39.52778,176.75776,9,Manzana Orchard Limited Partnership,Independent Sector,2217,3041,48,1.27722,B3,B
+87,MANZ C1,M.9,3,1.4,2017,2021,Spindle,R2879,IND - Manzana,266 Moteo Pa Road,Hastings,-39.52778,176.75776,9,Manzana Orchard Limited Partnership,Independent Sector,2560,4807,44,2.01894,C1,C
+88,MANZ C2,M.9/M.26,3,1.4,2018,2021,Spindle,R2879,IND - Manzana,266 Moteo Pa Road,Hastings,-39.52778,176.75776,9,Manzana Orchard Limited Partnership,Independent Sector,2403,7245,60,3.0429,C2,C
+89,MANZ C3,M.9,3,1.4,2018,2021,Spindle,R2879,IND - Manzana,266 Moteo Pa Road,Hastings,-39.52778,176.75776,9,Manzana Orchard Limited Partnership,Independent Sector,2531,7147,73,3.00174,C3,C
+90,MANZ D1,M.9,3,1.4,2017,2021,Spindle,R2879,IND - Manzana,266 Moteo Pa Road,Hastings,-39.52778,176.75776,9,Manzana Orchard Limited Partnership,Independent Sector,2456,4840,43,2.0328,D1,D
+91,MANZ D2,M.9,3,1.4,2018,2021,Spindle,R2879,IND - Manzana,266 Moteo Pa Road,Hastings,-39.52778,176.75776,9,Manzana Orchard Limited Partnership,Independent Sector,2299,7095,61,2.9799,D2,D
+93,MANAHI A2,M.9,3,1.4,2018,2021,Spindle,R2880,Manahi,"188 Stock Road, Pakipaki",Hastings,-39.69614,176.8017,3,Rakete Orchards Limited Partnership,Havelock Sector,2376,5091,50,2.228,A2,A
+94,MANAHI B1,M.9,3,1.4,2018,2021,Spindle,R2880,Manahi,"188 Stock Road, Pakipaki",Hastings,-39.69614,176.8017,3,Rakete Orchards Limited Partnership,Havelock Sector,2611,5439,50,2.36,B1,B
+95,MANAHI B2,M.9,3,1.4,2018,2021,Spindle,R2880,Manahi,"188 Stock Road, Pakipaki",Hastings,-39.69614,176.8017,3,Rakete Orchards Limited Partnership,Havelock Sector,2317,2498,50,1.092,B2,B
+96,MANAHI C,M.9,3,1.4,2018,2021,Spindle,R2880,Manahi,"188 Stock Road, Pakipaki",Hastings,-39.69614,176.8017,3,Rakete Orchards Limited Partnership,Havelock Sector,2273,6352,68,2.774,C,C
+97,MANAHI D,M.9,3,1.4,2018,2021,Spindle,R2880,Manahi,"188 Stock Road, Pakipaki",Hastings,-39.69614,176.8017,3,Rakete Orchards Limited Partnership,Havelock Sector,2504,6727,66,2.93,D,D
+98,MANAHI E,M.9,3,1.4,2018,2021,Spindle,R2880,Manahi,"188 Stock Road, Pakipaki",Hastings,-39.69614,176.8017,3,Rakete Orchards Limited Partnership,Havelock Sector,2238,4825,65,2.136,E,E
+99,MANAHI F1,M.9,3,1.4,2018,2021,Spindle,R2880,Manahi,"188 Stock Road, Pakipaki",Hastings,-39.69614,176.8017,3,Rakete Orchards Limited Partnership,Havelock Sector,2472,5423,57,2.413,F1,F
+100,MANAHI F2,M.9,3,1.4,2018,2021,Spindle,R2880,Manahi,"188 Stock Road, Pakipaki",Hastings,-39.69614,176.8017,3,Rakete Orchards Limited Partnership,Havelock Sector,2400,4945,64,2.187,F2,F
+101,SIM2 A1,M.9,3,1.4,2018,2021,Spindle,R2886,Sim 2,498 Puketitiri Road,Hastings,-39.49081,176.8147,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2579,3376,45,1.46832,A1,A
+102,SIM2 B1,M.9,3,1.4,2018,2021,Spindle,R2886,Sim 2,498 Puketitiri Road,Hastings,-39.49081,176.8147,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2365,2795,34,1.21884,B1,B
+103,LOBB A,CG202,3.5,1.4,2019,2021,Spindle,R2899,Lobb,"51 Stock Road, Paki Paki",Hastings,-39.69129,176.81352,3,Rakete Orchards Limited Partnership,Havelock Sector,2213,5464,71,2.808,A,A
+104,LOBB B,CG202,3.5,1.4,2019,2021,Spindle,R2899,Lobb,"51 Stock Road, Paki Paki",Hastings,-39.69129,176.81352,3,Rakete Orchards Limited Partnership,Havelock Sector,2445,5311,70,2.731,B,B
+105,SIM1 A1,M.9,3,1.4,2018,2021,Spindle,R2900,Sim 1,1004 Puketapu Road,Hastings,-39.49919,176.81352,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2263,3466,31,1.519,A1,A
+106,SIM1 A2,M.9,3,1.4,2018,2021,Spindle,R2900,Sim 1,1004 Puketapu Road,Hastings,-39.49919,176.81352,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2550,3660,32,1.62,A2,A
+107,SIM1 B1,M.9,3,1.4,2018,2021,Spindle,R2900,Sim 1,1004 Puketapu Road,Hastings,-39.49919,176.81352,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2337,2571,32,1.138,B1,B
+108,SIM1 B2,M.9,3,1.4,2018,2021,Spindle,R2900,Sim 1,1004 Puketapu Road,Hastings,-39.49919,176.81352,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2627,4377,30,1.918,B2,B
+109,SIM1 B3,M.9,3,1.4,2018,2021,Spindle,R2900,Sim 1,1004 Puketapu Road,Hastings,-39.49919,176.81352,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2416,5578,43,2.448,B3,B
+110,SIM1 C1,M.9,3,1.4,2019,2021,Spindle,R2900,Sim 1,1004 Puketapu Road,Hastings,-39.49919,176.81352,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2233,3126,25,1.367,C1,C
+111,SIM1 C2,M.9,3,1.4,2019,2021,Spindle,R2900,Sim 1,1004 Puketapu Road,Hastings,-39.49919,176.81352,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2524,3569,31,1.592,C2,C
+112,SIM1 D1,M.9,3,1.4,2019,2021,Spindle,R2900,Sim 1,1004 Puketapu Road,Hastings,-39.49919,176.81352,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2312,3010,30,1.559,D1,D
+113,SIM1 D2,M.9,3,1.4,2019,2021,Spindle,R2900,Sim 1,1004 Puketapu Road,Hastings,-39.49919,176.81352,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2604,3409,38,1.957,D2,D
+114,RANGI2 A,M.793,4,2,2019,2021,Spindle,R2901,Rangi 2,611 Puketitiri Road,Hastings,-39.48168,176.809,10,ROLP 2,Crownthorpe Sector,2390,1480,19,1.159,A,A
+115,RANGI2 B,M.793,4,2,2019,2021,Spindle,R2901,Rangi 2,611 Puketitiri Road,Hastings,-39.48168,176.809,10,ROLP 2,Crownthorpe Sector,2543,1626,19,1.4,B,B
+116,RANGI2 C,M.793,4,2,2019,2021,Spindle,R2901,Rangi 2,611 Puketitiri Road,Hastings,-39.48168,176.809,10,ROLP 2,Crownthorpe Sector,2495,1634,19,1.306,C,C
+117,CROWN A1,M.9,3,1.4,2019,2021,Spindle,R2924,Crown,122 Matapiro Road,Hastings,-39.552189,176.6707416,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2284,4235,71,1.865,A1,A
+118,CROWN A2,M.9,3,1.4,2019,2021,Spindle,R2924,Crown,122 Matapiro Road,Hastings,-39.552189,176.6707416,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2463,6500,85,2.851,A2,A
+119,CROWN B1,M.9,3,1.4,2019,2021,Spindle,R2924,Crown,122 Matapiro Road,Hastings,-39.552189,176.6707416,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2361,4223,62,1.83792,B1,B
+120,CROWN B2,M.9,3,1.4,2020,2022,Spindle,R2924,Crown,122 Matapiro Road,Hastings,-39.552189,176.6707416,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2622,3718,69,1.661,B2,B
+121,MANZ2 A,M.9,3,1.4,2019,2022,Spindle,R2925,IND - Manzana 2,"298 Moteo Pa Road, Puketapu",Hastings,-39.524245,176.757605,9,Manzana Orchard Limited Partnership,Independent Sector,2355,8413,104,3.57504,A,A
+122,MANZ2 B,M.9,3,1.4,2019,2021,Spindle,R2925,IND - Manzana 2,"298 Moteo Pa Road, Puketapu",Hastings,-39.524245,176.757605,9,Manzana Orchard Limited Partnership,Independent Sector,2258,9173,76,3.95598,B,B
+123,MANZ2 C,M.9,3,1.4,2019,2021,Spindle,R2925,IND - Manzana 2,"298 Moteo Pa Road, Puketapu",Hastings,-39.524245,176.757605,9,Manzana Orchard Limited Partnership,Independent Sector,2434,4120,43,1.86858,C,C
+124,MANA1 - A1,M.9,3,1.4,2020,2021,2D,R2926,Mana 1,"118 Stock Road, Bridge Pa",Hastings,-39.645683,176.786331,6,Mana Orchards Limited Partnership,Maraekakaho Sector,2224,7440,63,3.26,A1,A
+125,MANA1 - A2,M.9,3,1.4,2020,2021,2D,R2926,Mana 1,"118 Stock Road, Bridge Pa",Hastings,-39.645683,176.786331,6,Mana Orchards Limited Partnership,Maraekakaho Sector,2598,6231,64,2.757,A2,A
+126,MANA1 - B2,M.9,3,1.4,2020,2021,2D,R2926,Mana 1,"118 Stock Road, Bridge Pa",Hastings,-39.645683,176.786331,6,Mana Orchards Limited Partnership,Maraekakaho Sector,2327,6933,64,3.07,B2,B
+127,MANA1 - B1,M.9,3,1.4,2020,2021,2D,R2926,Mana 1,"118 Stock Road, Bridge Pa",Hastings,-39.645683,176.786331,6,Mana Orchards Limited Partnership,Maraekakaho Sector,2562,6923,65,3.068,B1,B
+128,MANA2 - A1,M.9,3,1.4,2020,2021,2D,R2927,Mana 2,"116 Stock Road, Bridge Pa",Hastings,-39.64471,176.788918,6,Mana Orchards Limited Partnership,Maraekakaho Sector,2518,6385,50,2.769,A1,A
+129,MANA2 - A2,M.9,3,1.4,2020,2021,2D,R2927,Mana 2,"116 Stock Road, Bridge Pa",Hastings,-39.64471,176.788918,6,Mana Orchards Limited Partnership,Maraekakaho Sector,2198,5889,49,2.569,A2,A
+130,MANA2 - B2,M.9,3,1.4,2020,2021,2D,R2927,Mana 2,"116 Stock Road, Bridge Pa",Hastings,-39.64471,176.788918,6,Mana Orchards Limited Partnership,Maraekakaho Sector,2458,6263,50,2.783,B2,B
+131,MANA2 - B1,M.9,3,1.4,2020,2021,2D,R2927,Mana 2,"116 Stock Road, Bridge Pa",Hastings,-39.64471,176.788918,6,Mana Orchards Limited Partnership,Maraekakaho Sector,2410,6271,50,2.756,B1,B
+132,LONGACR A1,CG202,3.5,1.4,2019,2022,Spindle,R2219,IND- Longacre Orchard (RLA),1795 Korokipo Road,Hastings,-39.5792832,176.7679864,9,Rockit Long Acre,Independent Sector,2538,2377,20,1.208,A1,A
+133,LONGACR B1,M.9,3,1.4,2020,2022,2D,R2219,IND- Longacre Orchard (RLA),1795 Korokipo Road,Hastings,-39.5792832,176.7679864,9,Rockit Long Acre,Independent Sector,2378,4246,32,1.807,B1,B
+134,LONGACR B2,M.9,3,1.6,2023,2022,2D,R2219,IND- Longacre Orchard (RLA),1795 Korokipo Road,Hastings,-39.5792832,176.7679864,9,Rockit Long Acre,Independent Sector,2612,3628,32,1.726,B2,B
+137,OMAHU B1,CG202,2.2,2.8,2021,2022,FOPS,R2724,Omahu,721 Taihape Road,Hastings,-39.555005,176.698555,10,ROLP 2,Crownthorpe Sector,2506,453,28,0.3,B1,B
+138,OMAHU B2,CG202,2.2,2.8,2021,2022,FOPS,R2724,Omahu,721 Taihape Road,Hastings,-39.555005,176.698555,10,ROLP 2,Crownthorpe Sector,2350,701,18,0.46,B2,B
+135,RLA F,M.9,3,1.4,2020,2022,Spindle,R2219,IND- Longacre Orchard (RLA),1795 Korokipo Road,Hastings,-39.5792832,176.7679864,9,Rockit Long Acre,,,,,,,
+144,LOWRY D1,CG202,2.5,1.4,2022,2022,2D,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,Crownthorpe Sector,2557,4795,36,1.693,D1,D
+136,OMAHU FB,CG202,2.2,2.8,2021,2022,FOPS,R2724,Omahu,721 Taihape Road,Hastings,-39.555005,176.698555,10,ROLP 2,,,,,,,
+145,LOWRY D2,M9,2.5,1.4,2022,2022,2D,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,Crownthorpe Sector,2372,4847,36,1.772,D2,D
+146,LOWRY D4,M.9,2.2,2.4,2021,2022,FOPS,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,Crownthorpe Sector,2552,2800,55,1.733,D4,D
+147,LOWRY D3,CG202,2.2,2.8,2020,2022,FOPS,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,Crownthorpe Sector,2451,2728,41,1.733,D3,D
+139,OMAHU FG,CG202,2.2,2.8,2021,2022,FOPS,R2724,Omahu,721 Taihape Road,Hastings,-39.555005,176.698555,10,ROLP 2,,,,,,,
+148,LOWRY F1,M.9,2.2,2.4,2022,2022,FOPS,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,Crownthorpe Sector,2297,3034,72,1.619,F1,F
+140,LOWRY 10,M9,3,1.4,2020,2022,Spindle,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,,,,,,,
+150,RMS SECTOR,,,,2022,2022,,,,,,,,,,RMS Sector,2343,0,0,0,,
+141,LOWRY NUR,M116/CG202,3,1,2020,2022,Spindle,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,,,,,,,
+156,VALLEY A1,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2497,5758,47,2.487,A1,A
+142,LOWRY 4,M9,3,1.4,2020,2022,Spindle,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,,,,,,,
+157,VALLEY A2,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2398,6489,42,2.841,A2,A
+143,LOWRY 8,M9,3,1.4,2020,2022,Spindle,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,,,,,,,
+158,VALLEY B1,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2576,8197,64,3.653,B1,B
+159,VALLEY B2,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2363,9167,68,3.886,B2,B
+160,VALLEY B3,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2292,3083,68,1.381,B3,B
+161,VALLEY C3,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2470,5038,59,2.211,C3,C
+162,VALLEY C2,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2260,8114,60,3.556,C2,C
+163,VALLEY C1,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2548,8048,60,3.518,C1,C
+149,OMA SECTOR,,,,2022,2022,,.,Omahu Sector,,,,,10,Omahu,,,,,,,
+164,VALLEY D1,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2335,8825,60,3.875,D1,D
+165,VALLEY D2,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2623,8099,60,3.55,D2,D
+166,VALLEY D3,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2442,6864,57,3.167,D3,D
+167,VALLEY E4,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2231,1835,60,0.828,E4,E
+168,VALLEY E3,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2520,7728,60,3.392,E3,E
+169,VALLEY E2,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2307,8141,59,3.517,E2,E
+170,VALLEY E1,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2601,7207,59,3.207,E1,E
+171,VALLEY F1,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2412,5281,60,2.329,F1,F
+172,VALLEY F2,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2540,7910,60,3.443,F2,F
+173,VALLEY F3,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2491,4312,60,1.886,F3,F
+174,VALLEY G3,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2280,5648,60,2.561,G3,G
+175,VALLEY G2,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2460,8057,60,3.472,G2,G
+176,VALLEY G1,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2387,4968,60,2.196,G1,G
+177,VALLEY H2,M.9 ,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2619,4583,49,2.02,H2,H
+178,VALLEY H3,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2352,7060,61,3.134,H3,H
+179,VALLEY H4,M.9,3,1.4,2020,2023,2D,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2253,2753,49,1.228,H4,H
+181,MKK SECTOR,,,,2022,2022,,,,,,,,,,Maraekakaho Sector,2248,0,0,0,,
+182,PIONEER B1,M.9,3,1.4,2020,2023,2D,R1580,Pioneer,"445 Ngatarawa Road, Bridge Pa 4175",Hastings,-39.6227772,176.7323235,6,Pioneer Capital Molly Limited,Maraekakaho Sector,2593,8309,70,3.603,B1,B
+183,PIONEER A1,M.9,3,1.4,2020,2023,2D,R1580,Pioneer,"445 Ngatarawa Road, Bridge Pa 4175",Hastings,-39.6227772,176.7323235,6,Pioneer Capital Molly Limited,Maraekakaho Sector,2324,5099,55,2.227,A1,A
+184,PIONEER A2,M.9,3,1.4,2020,2023,2D,R1580,Pioneer,"445 Ngatarawa Road, Bridge Pa 4175",Hastings,-39.6227772,176.7323235,6,Pioneer Capital Molly Limited,Maraekakaho Sector,2558,5511,56,2.407,A2,A
+185,PIONEER B3,M.9,3,1.4,2020,2023,2D,R1580,Pioneer,"445 Ngatarawa Road, Bridge Pa 4175",Hastings,-39.6227772,176.7323235,6,Pioneer Capital Molly Limited,Maraekakaho Sector,2513,4254,60,1.861,B3,B
+186,PIONEER B2,M.9,3,1.4,2020,2023,2D,R1580,Pioneer,"445 Ngatarawa Road, Bridge Pa 4175",Hastings,-39.6227772,176.7323235,6,Pioneer Capital Molly Limited,Maraekakaho Sector,2221,5115,61,2.247,B2,B
+187,PIONEER C2,M.9,3,1.4,2020,2023,2D,R1580,Pioneer,"445 Ngatarawa Road, Bridge Pa 4175",Hastings,-39.6227772,176.7323235,6,Pioneer Capital Molly Limited,Maraekakaho Sector,2454,3874,60,1.688,C2,C
+188,PIONEER C1,M.9,3,1.4,2020,2023,2D,R1580,Pioneer,"445 Ngatarawa Road, Bridge Pa 4175",Hastings,-39.6227772,176.7323235,6,Pioneer Capital Molly Limited,Maraekakaho Sector,2407,4848,61,2.108,C1,C
+189,LAWN A1,M.9,3,1.4,2020,2021,2D,R2917,Lawn Road,289 Lawn Road,Clive,-39.6089604,176.9164304,11,Lawn Road Orchard Limited,Hastings Sector,2535,4311,40,1.903,A1,A
+190,LAWN A2,M.9,3,1.4,2020,2022,2D,R2917,Lawn Road,289 Lawn Road,Clive,-39.6089604,176.9164304,11,Lawn Road Orchard Limited,Hastings Sector,2374,4648,45,2.079,A2,A
+191,LAWN B1,M.9,3,1.4,2020,2022,2D,R2917,Lawn Road,289 Lawn Road,Clive,-39.6089604,176.9164304,11,Lawn Road Orchard Limited,Hastings Sector,2636,4300,40,1.914,B1,B
+192,LAWN B2,M.9,3,1.4,2020,2022,2D,R2917,Lawn Road,289 Lawn Road,Clive,-39.6089604,176.9164304,11,Lawn Road Orchard Limited,Hastings Sector,2425,5064,45,2.228,B2,B
+193,LAWN C1,M.9,3,1.4,2020,2022,2D,R2917,Lawn Road,289 Lawn Road,Clive,-39.6089604,176.9164304,11,Lawn Road Orchard Limited,Hastings Sector,2271,3768,39,1.685,C1,C
+194,LAWN C2,M.9,3,1.4,2020,2022,2D,R2917,Lawn Road,289 Lawn Road,Clive,-39.6089604,176.9164304,11,Lawn Road Orchard Limited,Hastings Sector,2503,4902,45,2.2,C2,C
+198,HAV SECTOR,,,,2015,2021,,X....,Havelock Sector,,,,,3,Havelock,Havelock Sector,2243,0,0,0,,
+199,ORM B1,M.9,2.2,2.4,2021,2022,FOPS,R2945,Ormond Road,223 Ormond Rd ,Hastings,-39.6057791,176.83296,11,Heretaunga Orchard Limited Partnership,Hastings Sector,2476,5818,62,3.062,B1,B
+200,ORM B2,M.9,2.2,2.4,2021,2022,FOPS,R2945,Ormond Road,223 Ormond Rd ,Hastings,-39.6057791,176.83296,11,Heretaunga Orchard Limited Partnership,Hastings Sector,2211,5259,62,2.841,B2,B
+201,ORM A2,M.9,2.2,2.4,2021,2022,FOPS,R2945,Ormond Road,223 Ormond Rd ,Hastings,-39.6057791,176.83296,11,Heretaunga Orchard Limited Partnership,Hastings Sector,2584,6129,66,3.269,A2,A
+202,ORM A1,M.9,2.2,2.4,2021,2022,FOPS,R2945,Ormond Road,223 Ormond Rd ,Hastings,-39.6057791,176.83296,11,Heretaunga Orchard Limited Partnership,Hastings Sector,2369,4928,65,2.579,A1,A
+208,TA 1,M.9,2.5,1.6,2021,2022,2D,R2944,Te Arai,"822 Waingake Road, Muriwai","Gisborne, 4074",-38.7099518,177.8307257,9,Te Arai Orchard LP,Independent Sector,2632,5890,42,2.5128,TA1,A
+209,TA 2,M.9,2.5,1.6,2021,2022,2D,R2944,Te Arai,"822 Waingake Road, Muriwai","Gisborne, 4074",-38.7099518,177.8307257,9,Te Arai Orchard LP,Independent Sector,2310,5156,42,2.1744,TA2,A
+210,TA 3,M.9,2.5,1.6,2021,2022,2D,R2944,Te Arai,"822 Waingake Road, Muriwai","Gisborne, 4074",-38.7099518,177.8307257,9,Te Arai Orchard LP,Independent Sector,2603,5201,67,4.1124,TA3,B
+211,TA 4,M.9,2.5,1.6,2021,2022,2D,R2944,Te Arai,"822 Waingake Road, Muriwai","Gisborne, 4074",-38.7099518,177.8307257,9,Te Arai Orchard LP,Independent Sector,2528,5916,67,3.0016,TA4,C
+212,TA 5,M.9,2.5,1.6,2021,2022,2D,R2944,Te Arai,"822 Waingake Road, Muriwai","Gisborne, 4074",-38.7099518,177.8307257,9,Te Arai Orchard LP,Independent Sector,2207,3707,67,1.6012,TA5,C
+195,PUK SECTOR,,,,2022,2022,,,,,,,,,,,,,,,,
+213,TA 6,M.9,2.5,1.6,2021,2022,2D,R2944,Te Arai,"822 Waingake Road, Muriwai","Gisborne, 4074",-38.7099518,177.8307257,9,Te Arai Orchard LP,Independent Sector,2494,7540,63,3.7252,TA6,D
+214,TA 7,M.9,2.5,1.6,2021,2022,2D,R2944,Te Arai,"822 Waingake Road, Muriwai","Gisborne, 4074",-38.7099518,177.8307257,9,Te Arai Orchard LP,Independent Sector,2395,2103,74,1.0832,TA7,D
+215,TA 8,M.9,2.5,1.6,2021,2022,2D,R2944,Te Arai,"822 Waingake Road, Muriwai","Gisborne, 4074",-38.7099518,177.8307257,9,Te Arai Orchard LP,Independent Sector,2573,988,42,1.3956,TA8,E
+216,TA 9,M.9,2.5,1.6,2022,2022,2D,R2944,Te Arai,"822 Waingake Road, Muriwai","Gisborne, 4074",-38.7099518,177.8307257,9,Te Arai Orchard LP,Independent Sector,2389,3063,42,2.006,TA9,E
+217,LGL A1,M.9,2.5,1.6,2021,2022,2D,R2329,IND - Longlands,199 Longlands Rd,Hastings,-39.6724588,176.8108747,9,Longlands Orchard Limited Partnership,Independent Sector,2289,7517,64,3.0068,A1,A
+219,LGL A2,M.9,2.5,1.6,2022,2022,2D,R2329,IND - Longlands,199 Longlands Rd,Hastings,-39.6724588,176.8108747,9,Longlands Orchard Limited Partnership,Independent Sector,2256,2442,37,0.9768,A2,A
+203,NRL A,M.9,3,1.4,2020,2022,2D,R2915,IND-Te Wairua,266 Lawn Rd,Clive,-39.610119,176.9153762,9,Ngai Tukairangi Trust,,,,,,,
+220,LGL B1,M.9,2.5,1.6,2021,2022,2D,R2329,IND - Longlands,199 Longlands Rd,Hastings,-39.6724588,176.8108747,9,Longlands Orchard Limited Partnership,Independent Sector,2546,3862,54,1.5448,B1,B
+204,NRL B,M.9,3,1.4,2020,2022,2D,R2915,IND-Te Wairua,266 Lawn Rd,Clive,-39.610119,176.9153762,9,Ngai Tukairangi Trust,,,,,,,
+221,LGL B2,M.9,2.5,1.6,2022,2022,2D,R2329,IND - Longlands,199 Longlands Rd,Hastings,-39.6724588,176.8108747,9,Longlands Orchard Limited Partnership,Independent Sector,2359,3909,53,1.5636,B2,B
+205,NRL C,M.9,3,1.4,2022,2022,2D,R2915,IND-Te Wairua,266 Lawn Rd,Clive,-39.610119,176.9153762,9,Ngai Tukairangi Trust,,,,,,,
+222,LGL B3,M.9,2.5,1.6,2022,2022,2D,R2329,IND - Longlands,199 Longlands Rd,Hastings,-39.6724588,176.8108747,9,Longlands Orchard Limited Partnership,Independent Sector,2596,675,10,0.27,B3,B
+206,NRL D,M.9,3,1.4,2020,2022,2D,R2915,IND-Te Wairua,266 Lawn Rd,Clive,-39.610119,176.9153762,9,Ngai Tukairangi Trust,,,,,,,
+223,LGL B4,M.9,2.5,1.6,2022,2022,2D,R2329,IND - Longlands,199 Longlands Rd,Hastings,-39.6724588,176.8108747,9,Longlands Orchard Limited Partnership,Independent Sector,2438,1559,23,0.6236,B4,B
+224,LGL C1,M.9,2.5,1.6,2022,2022,2D,R2329,IND - Longlands,199 Longlands Rd,Hastings,-39.6724588,176.8108747,9,Longlands Orchard Limited Partnership,Independent Sector,2228,7158,64,2.8632,C1,C
+225,LGL C2,M.9,2.5,1.6,2022,2022,2D,R2329,IND - Longlands,199 Longlands Rd,Hastings,-39.6724588,176.8108747,9,Longlands Orchard Limited Partnership,Independent Sector,2516,5787,64,2.3148,C2,C
+226,LGL D1,M.9,2.5,1.6,2021,2022,2D,R2329,IND - Longlands,199 Longlands Rd,Hastings,-39.6724588,176.8108747,9,Longlands Orchard Limited Partnership,Independent Sector,2223,9659,64,3.8636,D1,D
+227,LGL D2,M.9,2.5,1.6,2021,2022,2D,R2329,IND - Longlands,199 Longlands Rd,Hastings,-39.6724588,176.8108747,9,Longlands Orchard Limited Partnership,Independent Sector,2567,7948,98,3.1792,D2,D
+228,NRC A2,Marc,3.5,1.5,2015,2021,Spindle,R1639,Napier Road Central,428 Napier Road,Hastings,-39.6334528,176.8951717,11,ROLP 2,Hastings Sector,2409,577,6,0.329,A2,A
+229,NRC A3,MM.106,4.5,2.4,2015,2021,Twin Leader,R1639,Napier Road Central,428 Napier Road,Hastings,-39.6334528,176.8951717,11,ROLP 2,Hastings Sector,2537,299,5,0.339,A3,A
+230,NRC A4,MM.106,4.5,2.4,2015,2022,Twin Leader,R1639,Napier Road Central,428 Napier Road,Hastings,-39.6334528,176.8951717,11,ROLP 2,Hastings Sector,2487,357,6,0.404,A4,A
+231,NRC B2,MM.106,4.5,2.4,2015,2022,Twin Leader,R1639,Napier Road Central,428 Napier Road,Hastings,-39.6334528,176.8951717,11,ROLP 2,Hastings Sector,2305,257,6,0.274,B2,B
+232,NRC B3,M.9/M.116,4.5,1.2,2015,2022,Spindle,R1639,Napier Road Central,428 Napier Road,Hastings,-39.6334528,176.8951717,11,ROLP 2,Hastings Sector,2428,283,4,0.164,B3,B
+233,NRC B4,MM.106,4.5,2.4,2015,2022,Twin Leader,R1639,Napier Road Central,428 Napier Road,Hastings,-39.6334528,176.8951717,11,ROLP 2,Hastings Sector,2383,239,5,0.254,B4,B
+234,NRC B5,M.9/M.116,4.5,1.2,2015,2021,Twin Leader,R1639,Napier Road Central,428 Napier Road,Hastings,-39.6334528,176.8951717,11,ROLP 2,Hastings Sector,2616,578,5,0.321,B5,B
+235,NRC B6,MM.106,4.5,2.4,2015,2022,Spindle,R1639,Napier Road Central,428 Napier Road,Hastings,-39.6334528,176.8951717,11,ROLP 2,Hastings Sector,2349,262,8,0.292,B6,B
+236,NRN A1,M.9,3,1.4,2015,2021,Spindle,R2775,Napier Road North,438 Napier Road,Havelock North,-39.632707,176.894727,11,ROLP 2,Hastings Sector,2278,294,8,0.14,A1,A
+237,NRN A2,M.9,3,1.4,2015,2022,Spindle,R2775,Napier Road North,438 Napier Road,Havelock North,-39.632707,176.894727,11,ROLP 2,Hastings Sector,2510,412,11,0.183,A2,A
+238,NRS A1,M.9,3,1.4,2013,2021,Spindle,R2712,Napier Road South,402 Napier Road,Havelock North,-39.636564,176.893214,11,ROLP 2,Hastings Sector,2245,285,9,0.138,A1,A
+239,NRS A2,M.9,3,1.4,2013,2021,Spindle,R2712,Napier Road South,402 Napier Road,Havelock North,-39.636564,176.893214,11,ROLP 2,Hastings Sector,2590,215,7,0.104,A2,A
+240,LOWRY B1,CG202,2.8,1.4,2021,2022,Twin Leader,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,Crownthorpe Sector,2322,6604,63,2.727,B1,B
+241,LOWRY A2,CG202,2.8,1.4,2021,2022,Spindle,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,Crownthorpe Sector,2556,9091,70,3.761,A2,A
+242,LOWRY  A1,CG202,2.8,1.4,2021,2022,Spindle,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,Crownthorpe Sector,2482,9202,70,3.749,A1,A
+426,RIV-C1,M26,4,1.5,2005,2021,,R1752,IND - Riverside,383 Twyford Road,Hastings,-39.584128,176.807398,9,Griffiths Orchards Ltd,Independent Sector,2203,642,1,0.96,C1,C
+427,HUA-A3,MM.106,5,2.5,1998,2022,,R1751,IND - Huawhenua - Home,5 Evans Road,Hastings,-39.5969,176.798588,9,Griffiths Orchards Ltd,Independent Sector,2489,570,1,0.7125,A3,A
+429,RVA-TR1,M.9,3.5,1.5,2012,2022,,R1021,IND - Riverside Apples,465 Twyford Road,Hastings,-39.582439,176.812768,9,Riverside Apples,Independent Sector,2429,4153,1,2.180325,A,A
+430,RVA-TR6,M.9,3.3,1.3,2012,2022,,R1021,IND - Riverside Apples,465 Twyford Road,Hastings,-39.582439,176.812768,9,Riverside Apples,Independent Sector,2385,847,1,0.363363,F,A
+431,RVA-TD1,M.9,3.4,1.5,2013,2022,,R1021,IND - Riverside Apples,465 Twyford Road,Hastings,-39.582439,176.812768,9,Riverside Apples,Independent Sector,2617,2534,1,1.29,L,B
+433,HUA-B1,M.26,4.1,1.8,2005,2022,,R1751,IND - Huawhenua - Home,5 Evans Road,Hastings,-39.5969,176.798588,9,Griffiths Orchards Ltd,Independent Sector,2251,1543,1,1.11,B1,B
+435,RIV-D2,MM106,4.5,2.5,1991,2022,,R1752,IND - Riverside,383 Twyford Road,Hastings,-39.584128,176.807398,9,Griffiths Orchards Ltd,Independent Sector,2246,548,1,0.6165,D2,D
+439,RIV-B2,M.26,3.9,1.5,2013,2022,,R1752,IND - Riverside,383 Twyford Road,Hastings,-39.584128,176.807398,9,Griffiths Orchards Ltd,Independent Sector,2484,1050,1,0.61,B2,B
+440,GLO-C,MM.106,4,2,2013,2022,,R2124,IND - Global Orchard,79 Moteo Pa Road,Napier,-39.5147848,176.7735411,9,Global Harvest Ltd,Independent Sector,2219,1800,1,1.44,C,C
+441,GLO-A,MM.106,4,1.4,2013,2022,,R2124,IND - Global Orchard,79 Moteo Pa Road,Napier,-39.5147848,176.7735411,9,Global Harvest Ltd,Independent Sector,2452,5230,1,2.9,A,A
+442,RVA-TO2,CG202,5,2.8,2014,2022,,R1021,IND - Riverside Apples,465 Twyford Road,Hastings,-39.582439,176.812768,9,Riverside Apples,Independent Sector,2405,135,1,0.189,T,C
+443,GLO-B,MM.106,4,2,2013,2022,,R2124,IND - Global Orchard,79 Moteo Pa Road,Napier,-39.5147848,176.7735411,9,Global Harvest Ltd,Independent Sector,2533,2340,1,1.87,B,B
+444,MOA-OVF,,5,3,2014,2022,,R1626,IND - Moa Apples,86 Lawn Road,Hastings,-39.623383,176.900574,9,Riverside Apples,Independent Sector,2344,204,0,0.26,F,B
+445,MOA-YVE,M.793,3.5,3,2014,2022,,R1626,IND - Moa Apples,86 Lawn Road,Hastings,-39.623383,176.900574,9,Riverside Apples,Independent Sector,2301,375,0,0.39,E,B
+446,MOA-OVD,,5,3,2015,2022,,R1626,IND - Moa Apples,86 Lawn Road,Hastings,-39.623383,176.900574,9,Riverside Apples,Independent Sector,2424,922,0,0.48,D,B
+243,NR SECTOR,,,,2022,2022,,,,,,,,,,,,,,,,
+447,MOA-NPC,M.9,3.5,1.5,2021,2022,,R1626,IND - Moa Apples,86 Lawn Road,Hastings,-39.623383,176.900574,9,Riverside Apples,Independent Sector,2269,399,0,0.21,C,C
+448,MOA-OVB,,5,3,2014,2022,,R1626,IND - Moa Apples,86 Lawn Road,Hastings,-39.623383,176.900574,9,Riverside Apples,Independent Sector,2501,811,0,1.22,B,C
+449,MOA-NPA,M.9,3.5,1.5,2015,2022,,R1626,IND - Moa Apples,86 Lawn Road,Hastings,-39.623383,176.900574,9,Riverside Apples,Independent Sector,2318,1340,0,0.7371,A,C
+452,MOA-NP4,M.9,3.5,1.5,2015,2022,,R1626,IND - Moa Apples,86 Lawn Road,Hastings,-39.623383,176.900574,9,Riverside Apples,Independent Sector,2241,1128,0,0.592,4,A
+453,MOA-OV3,,5,3,2021,2022,,R1626,IND - Moa Apples,86 Lawn Road,Hastings,-39.623383,176.900574,9,Riverside Apples,Independent Sector,2474,1649,0,0.87,3,A
+454,MOA-YV2,M.793,3.5,3,2014,2022,,R1626,IND - Moa Apples,86 Lawn Road,Hastings,-39.623383,176.900574,9,Riverside Apples,Independent Sector,2293,701,0,0.74,2,A
+455,MOA-OV1,,5,3,2014,2022,,R1626,IND - Moa Apples,86 Lawn Road,Hastings,-39.623383,176.900574,9,Riverside Apples,Independent Sector,2582,1082,0,1.62,1,A
+456,SUN-EAST,M.9,3.5,1.5,2014,2022,,R2732,IND - Sunvalley Orchard,965 Puketapu Road,Napier,-39.495576,176.808714,9,Sunvalley Orchard (Geoff Alexander),Independent Sector,2367,5000,1,3.17,R,A
+458,CYP-C1 1,CG202,3.5,1.5,2015,2022,,R2710,IND - Cypress,65 Evans Road,Hastings,-39.593262,176.803979,9,Griffiths Orchards Ltd,Independent Sector,2447,4949,1,2.6,C1,C
+459,SUN-WEST,M.9,3.5,1.5,2015,2022,,R2732,IND - Sunvalley Orchard,965 Puketapu Road,Napier,-39.495576,176.808714,9,Sunvalley Orchard (Geoff Alexander),Independent Sector,2265,3640,1,2.31,R,A
+461,CYP-C1 2,CG202,3.5,1.5,2016,2022,,R2710,IND - Cypress,65 Evans Road,Hastings,-39.593262,176.803979,9,Griffiths Orchards Ltd,Independent Sector,2339,1553,1,0.82,C1,C
+462,CYP-A1 1,CG202,3.5,1.5,2016,2022,,R2710,IND - Cypress,65 Evans Road,Hastings,-39.593262,176.803979,9,Griffiths Orchards Ltd,Independent Sector,2630,734,1,0.39,A1,A
+463,OCE-MIDDLE,MM.106,5,2.5,2017,2022,,R1899,IND - Oceanview Orchard,698 Puketitiri Road,Napier,-39.4757668,176.8051673,9,Global Harvest Ltd,Independent Sector,2308,2200,1,2.812,B,B
+464,OCE-SHED,MM.106,5,2.5,2016,2022,,R1899,IND - Oceanview Orchard,698 Puketitiri Road,Napier,-39.4757668,176.8051673,9,Global Harvest Ltd,Independent Sector,2235,1007,1,1.25875,A,A
+466,NOR-NTRK,M.9,1.4,3.3,2017,2022,,R1856,IND - Norton,"1048 Norton Road, ",Hastings,-39.669375,176.833072,9,X FRUIT,Independent Sector,2205,5288,1,2.443056,NTRK,B
+467,SIS-SSRK,M.9,3.3,1.4,2017,2022,,R1862,IND - Sissons,150 Brookfields Road,Napier,-39.574451,176.882262,9,X FRUIT,Independent Sector,2492,1745,1,0.80619,SSRK,A
+468,OCE-LEFT,MM.106,4.5,2.5,2016,2022,,R1899,IND - Oceanview Orchard,698 Puketitiri Road,Napier,-39.4757668,176.8051673,9,Global Harvest Ltd,Independent Sector,2393,1495,1,1.681875,D,D
+469,OCE-DRAIN,MM.106,5,2.5,2016,2022,,R1899,IND - Oceanview Orchard,698 Puketitiri Road,Napier,-39.4757668,176.8051673,9,Global Harvest Ltd,Independent Sector,2571,1470,1,1.8375,C,C
+470,PAR-RK,M.9,3.3,1.4,2017,2022,,R2841,IND - Parkhill Orchard,119 Parkhill Road,Hastings,-39.6178057,176.946962,9,X FRUIT,Independent Sector,2388,11586,1,5.352732,PHRK,A
+471,PAK-RK1,M.9,3.3,1.4,2017,2022,,R2786,IND - Paki Paki,67 Paki Paki Road,Hastings,-39.66,176.794,9,X FRUIT,Independent Sector,2287,3822,0,1.77,PPRK1,A
+472,PAK-RK2,M.9,3.5,1.4,2016,2022,,R2786,IND - Paki Paki,67 Paki Paki Road,Hastings,-39.66,176.794,9,X FRUIT,Independent Sector,2465,3306,0,1.61994,PPRK2,B
+473,WIL-BACK,M.9,3.5,1.5,2016,2022,,R1095,IND - Willowbank Orchard,1419  Korokipo Road,Taradale,-39.565793,176.810797,9,Willowbank Orchard (Gerald Schrama),Independent Sector,2254,4000,1,2.1,C,C
+474,DAR-DR1,M.9,2.8,1.5,2018,2022,2D,R2851,IND - Dartmoor,182 Dartmoor Road,Hastings,-39.505949,176.77438,9,Apatu Farms,Independent Sector,2544,7273,1,3,DR1,A
+475,DAR-DR2,M.9,2.8,1.5,2018,2022,2D,R2851,IND - Dartmoor,182 Dartmoor Road,Hastings,-39.505949,176.77438,9,Apatu Farms,Independent Sector,2357,8466,1,3.46,DR2,C
+476,DAR-DR3,M.9,2.8,1.5,2018,2022,2D,R2851,IND - Dartmoor,182 Dartmoor Road,Hastings,-39.505949,176.77438,9,Apatu Farms,Independent Sector,2594,8040,1,3.32,DR3,E
+477,DAR-DR4,M.9,2.8,1.5,2018,2022,2D,R2851,IND - Dartmoor,182 Dartmoor Road,Hastings,-39.505949,176.77438,9,Apatu Farms,Independent Sector,2436,5955,1,2.46,DR4,G
+478,DAR-DR5,M.9,2.8,1.5,2018,2022,2D,R2851,IND - Dartmoor,182 Dartmoor Road,Hastings,-39.505949,176.77438,9,Apatu Farms,Independent Sector,2226,3501,1,1.44,DR5,I
+479,DAR-DR6,M.9,2.8,1.5,2018,2022,2D,R2851,IND - Dartmoor,182 Dartmoor Road,Hastings,-39.505949,176.77438,9,Apatu Farms,Independent Sector,2514,4574,1,1.88,DR6,K
+480,DAR-DR7,M.9,2.8,1.5,2018,2022,2D,R2851,IND - Dartmoor,182 Dartmoor Road,Hastings,-39.505949,176.77438,9,Apatu Farms,Independent Sector,2329,4163,1,1.71,DR7,M
+481,KOR-KCR1,M.9,2.8,1.5,2018,2022,2D,R2850,IND - Korokipo,"1291 Korokipo Road
+State Highway 50",Hastings,-39.5640303,176.8220517,9,Apatu Farms,Independent Sector,2565,5680,1,2.34,KCR1,A
+483,HUA-B2,CG202,3.5,1.5,2019,2022,,R1751,IND - Huawhenua - Home,5 Evans Road,Hastings,-39.5969,176.798588,9,Griffiths Orchards Ltd,Independent Sector,2200,1395,1,1.03,B2,B
+485,RIV-B1,MM.106,4.5,2.5,1991,2022,,R1752,IND - Riverside,383 Twyford Road,Hastings,-39.584128,176.807398,9,Griffiths Orchards Ltd,Independent Sector,2303,530,1,0.59625,B1,B
+486,KOR-KCR2,M.9,2.8,1.5,2019,2022,2D,R2850,IND - Korokipo,"1291 Korokipo Road
+State Highway 50",Hastings,-39.5640303,176.8220517,9,Apatu Farms,Independent Sector,2426,7754,1,3.25668,KCR2,C
+487,KOR-KCR3,M.9,2.8,1.5,2019,2022,2D,R2850,IND - Korokipo,"1291 Korokipo Road
+State Highway 50",Hastings,-39.5640303,176.8220517,9,Apatu Farms,Independent Sector,2381,10938,1,4.59396,KCR3,E
+488,KOR-KPR1,M.9,2.8,1.5,2019,2022,2D,R2850,IND - Korokipo,"1291 Korokipo Road
+State Highway 50",Hastings,-39.5640303,176.8220517,9,Apatu Farms,Independent Sector,2614,5763,1,2.42046,KPR1,H
+489,KOR-KPR2,M.9,2.8,1.5,2019,2022,2D,R2850,IND - Korokipo,"1291 Korokipo Road
+State Highway 50",Hastings,-39.5640303,176.8220517,9,Apatu Farms,Independent Sector,2347,6348,1,2.66616,KPR2,I
+490,RVA-TO3,,3.5,1.5,2014,2022,,R1021,IND - Riverside Apples,465 Twyford Road,Hastings,-39.582439,176.812768,9,Riverside Apples,Independent Sector,2276,1801,1,0.945525,U,C
+491,OKO-C1,MM.106,3.8,2.5,1991,2022,,R1611,IND - Okohua Orchard,383 Twyford Road,Hastings,-39.585562,176.804068,9,Griffiths Orchards Ltd,Independent Sector,2507,1251,0,1.29,C1,C
+493,SUN-NORTH,M.116,4,2,2016,2022,,R2732,IND - Sunvalley Orchard,965 Puketapu Road,Napier,-39.495576,176.808714,9,Sunvalley Orchard (Geoff Alexander),Independent Sector,2588,3300,1,3.86,R,A
+494,WIL-FRONT,M.9,3.5,1.5,2016,2022,,R1095,IND - Willowbank Orchard,1419  Korokipo Road,Taradale,-39.565793,176.810797,9,Willowbank Orchard (Gerald Schrama),Independent Sector,2320,3800,1,1.995,B,B
+496,SWP-RDMAIN,M.9,3.5,1.4,2016,2022,,R1369,IND - Swamp Rd,435 Swamp Road,Hastings,-39.544829,176.766575,9,Hamish Goodwin Trust,Independent Sector,2480,4549,1,2.22901,A,A
+497,SWP-RDSTH,M.9,3.5,1.4,2016,2022,,R1369,IND - Swamp Rd,435 Swamp Road,Hastings,-39.544829,176.766575,9,Hamish Goodwin Trust,Independent Sector,2216,2586,1,1.26714,B,A
+498,SWP-NEWWIN,M.9,3.5,1.4,2020,2022,,R1369,IND - Swamp Rd,435 Swamp Road,Hastings,-39.544829,176.766575,9,Hamish Goodwin Trust,Independent Sector,2449,1735,1,0.85015,C,A
+499,SWP-WEAK,M.9,3.5,1.4,2016,2022,,R1369,IND - Swamp Rd,435 Swamp Road,Hastings,-39.544829,176.766575,9,Hamish Goodwin Trust,Independent Sector,2402,2210,1,1.0829,D,A
+500,SWP-NEWCRK,M.9,3.5,1.4,2020,2022,,R1369,IND - Swamp Rd,435 Swamp Road,Hastings,-39.544829,176.766575,9,Hamish Goodwin Trust,Independent Sector,2555,1286,1,0.63014,E,A
+501,SWP-BACK,M.9,3.5,1.4,2016,2022,,R1369,IND - Swamp Rd,435 Swamp Road,Hastings,-39.544829,176.766575,9,Hamish Goodwin Trust,Independent Sector,2341,2479,1,1.21471,F,A
+502,RVA-TP3,M.9/Cepiland,3.6,1.5,2020,2022,,R1021,IND - Riverside Apples,465 Twyford Road,Hastings,-39.582439,176.812768,9,Riverside Apples,Independent Sector,2633,1612,1,0.87048,J,A
+503,RVA-TD2,M.9/Cepiland,3.5,1.5,2020,2022,,R1021,IND - Riverside Apples,465 Twyford Road,Hastings,-39.582439,176.812768,9,Riverside Apples,Independent Sector,2421,1562,1,0.82005,N,B
+504,RVA-TO1,M.9/Cepiland,3.5,1.5,2020,2022,,R1021,IND - Riverside Apples,465 Twyford Road,Hastings,-39.582439,176.812768,9,Riverside Apples,Independent Sector,2267,912,1,0.4788,S,C
+505,KOV-KVR1,M9,2.8,1.5,2019,2022,2D,R2872,IND - Korokipo Verries,1277 Korokipo Road SH50,Hastings,-39.5635433,176.823701,9,Apatu Farms,Independent Sector,2529,2726,0,1.14,KVR1,B
+506,KOV-KVR2,M9,2.8,1.5,2019,2022,2D,R2872,IND - Korokipo Verries,1277 Korokipo Road SH50,Hastings,-39.5635433,176.823701,9,Apatu Farms,Independent Sector,2316,3752,0,1.58,KVR2,D
+507,KOV-KVR3,M9,2.8,1.5,2019,2022,2D,R2872,IND - Korokipo Verries,1277 Korokipo Road SH50,Hastings,-39.5635433,176.823701,9,Apatu Farms,Independent Sector,2607,4296,0,1.8,KVR3,H
+508,KOV-KVR4,M9,2.8,1.5,2019,2022,2D,R2872,IND - Korokipo Verries,1277 Korokipo Road SH50,Hastings,-39.5635433,176.823701,9,Apatu Farms,Independent Sector,2396,2778,0,1.17,KVR4,J
+509,WAI-WPR1,M9,2.8,1.5,2019,2022,2D,R2873,IND - Waipatu,"40 Waipatu Settlement Road,  ",Hastings,-39.6311955,176.8803815,9,Apatu Farms,Independent Sector,2237,4725,0,1.98,WPR1,A
+510,WAI-WPR2,M9,2.8,1.5,2019,2022,2D,R2873,IND - Waipatu,"40 Waipatu Settlement Road,  ",Hastings,-39.6311955,176.8803815,9,Apatu Farms,Independent Sector,2499,11077,0,4.65,WPR2,B
+511,WAI-WPR3,M9,2.8,1.5,2019,2022,2D,R2873,IND - Waipatu,"40 Waipatu Settlement Road,  ",Hastings,-39.6311955,176.8803815,9,Apatu Farms,Independent Sector,2290,12247,0,5.14,WPR3,C
+512,LONGACR C2,M.9,3,1.4,2020,2022,2D,R2219,IND- Longacre Orchard (RLA),1795 Korokipo Road,Hastings,-39.5792832,176.7679864,9,Rockit Long Acre,Independent Sector,2578,2722,33,1.176,C2,C
+518,LOWRY B3,M.9,3,1.4,2021,2021,Spindle,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,Crownthorpe Sector,2336,893,27,0.43,B3,B
+519,LOWRY  B2,CG41,3,1.4,2021,2022,Spindle,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,Crownthorpe Sector,2626,804,15,0.436,B2,B
+520,GIS SECTOR,,2.5,1.6,2022,2023,2D,R000,Gisborne Sector,700 Waingake Road,Gisborne,,,8,Te Arai Orchard LP,Gisborne Sector,2331,0,0,0,,
+521,QUALITY,,,,2022,2022,,,,,,,,,,Crownthorpe Sector,2568,0,0,0,,
+522,HERE C1,M.9,3,1.4,2020,2023,Spindle,R2946,Lowry Heretaunga,"76 Matapiro Rd,",Hastings,-39.5503478,176.6750316,10,Heretaunga Orchard Limited Partnership,Crownthorpe Sector,2523,7590,54,3.357,C1,C
+523,HERE A1,M.9,3,1.4,2020,2023,Spindle,R2946,Lowry Heretaunga,"76 Matapiro Rd,",Hastings,-39.5503478,176.6750316,10,Heretaunga Orchard Limited Partnership,Crownthorpe Sector,2202,3806,56,1.734,A1,A
+524,HERE B1,M.9,3,1.4,2020,2023,Spindle,R2946,Lowry Heretaunga,"76 Matapiro Rd,",Hastings,-39.5503478,176.6750316,10,Heretaunga Orchard Limited Partnership,Crownthorpe Sector,2488,8465,63,3.799,B1,B
+525,VALLEY H1,CG202,3,1.4,2020,2023,Spindle,R2919,Valley,38 Valley Road,"Maraekakaho, Hastings 4171",-39.6497803,176.6611024,6,Rockit Orchards Limited,Maraekakaho Sector,2415,1414,22,0.623,H1,H
+526,MHL A,M.9,2.5,1.6,2022,2023,2D,R2952,Mangapoike,"706 Waingake Road, Muriwai",Gisborne ,,,9,Mangapoike Horticulture Limited,Independent Sector,2542,5671,51,2.462,A,A
+527,MHL B,M.9,2.5,1.6,2022,2023,2D,R2952,Mangapoike,"706 Waingake Road, Muriwai",Gisborne ,,,9,Mangapoike Horticulture Limited,Independent Sector,2384,5739,51,2.53,B,B
+528,SIM2 A2,M.9,3,1.4,2019,2022,Spindle,R2886,Sim 2,498 Puketitiri Road,Hastings,-39.49081,176.8147,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2283,2227,30,0.95382,A2,A
+529,SIM2 B2,M.9,3,1.4,2019,2022,Spindle,R2886,Sim 2,498 Puketitiri Road,Hastings,-39.49081,176.8147,10,Rakete Orchards Limited Partnership,Crownthorpe Sector,2462,3021,30,1.29822,B2,B
+531,CYP-A1 2,CG202,1.5,3.5,2019,2021,,R2710,IND - Cypress,65 Evans Road,Hastings,-39.593262,176.803979,9,Griffiths Orchards Ltd,Independent Sector,2621,819,0,0.43,A1,A
+532,CYP-A1 3,CG202,3.5,1.5,2021,2021,,R2710,IND - Cypress,65 Evans Road,Hastings,-39.593262,176.803979,9,Griffiths Orchards Ltd,Independent Sector,2354,2080,0,1.09,A1,A
+533,CYP-A2,M116,3.5,2,2014,2021,,R2710,IND - Cypress,65 Evans Road,Hastings,-39.593262,176.803979,9,Griffiths Orchards Ltd,Independent Sector,2591,1235,0,0.86,A2,A
+534,CYP-A3,M9,3.5,1.5,2014,2021,,R2710,IND - Cypress,65 Evans Road,Hastings,-39.593262,176.803979,9,Griffiths Orchards Ltd,Independent Sector,2433,1826,0,0.96,A3,A
+517,BPA SECTOR,,,,2020,2021,,..000,Bridge Pa Sector,.,,,,11,Bridge Pa,,,,,,,
+535,LOWRY C2,CG202,3,2.2,2021,2023,FOPS,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,Crownthorpe Sector,2250,4228,74,2.907,C2,C
+536,LOWRY C1,CG202,3,2.2,2021,2023,FOPS,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,Crownthorpe Sector,2483,4444,74,3.074,C1,C
+537,LOWRY E1,M.9,2.8,1,2021,2023,Spindle,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,Crownthorpe Sector,2326,9831,70,2.668,E1,E
+538,LOWRY F2,M.9,2.8,1,2022,2023,Spindle,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,Crownthorpe Sector,2561,6644,80,1.965,F2,F
+539,LOWRY G1,M.9,2.2,2.4,2022,2023,FOPS,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,Crownthorpe Sector,2404,3916,74,2.902,G1,G
+540,LOWRY G2,M.9,2.2,2.4,2022,2023,FOPS,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,Crownthorpe Sector,2532,3372,58,1.82,G2,G
+541,LOWRY G3,M.9,2.2,2.4,2022,2023,FOPS,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,Crownthorpe Sector,2457,3156,73,1.701,G3,G
+542,LOWRY H1,M.9,2.2,2.4,2022,2023,FOPS,R2918,Lowry,76 Matapiro Rd,Hastings,-39.5503448,176.6750354,10,Rockit Orchards Limited,Crownthorpe Sector,2300,4751,66,2.575,H1,H
+543,COL-HOUSE,M9,,,2021,2023,,R2929,IND - Colaghty Orchard,"234 Bushmere Road, Waeranga-Hika",Gisborne,-38.6376971,177.9400315,9,Caithness Ltd (Alistair MacKenzie),Independent Sector,2423,12169,0,4.75,A,A
+544,COL-OFFICE,M9,,,2021,2023,,R2929,IND - Colaghty Orchard,"234 Bushmere Road, Waeranga-Hika",Gisborne,-38.6376971,177.9400315,9,Caithness Ltd (Alistair MacKenzie),Independent Sector,2377,10191,0,3.97,B,B
+548,KAR-ROCK2,M9,,,2021,2023,,R2934,IND - Kararua,"41 Kararua Road, Manutuke",4072,-38.6964689,177.9179136,9,HOWATSON RURAL HOLDINGS LIMITED,Independent Sector,2505,0,0,1.95,ROCK2,B
+549,KAR-ROCK4,M9,,,2021,2023,,R2934,IND - Kararua,"41 Kararua Road, Manutuke",4072,-38.6964689,177.9179136,9,HOWATSON RURAL HOLDINGS LIMITED,Independent Sector,2239,0,0,1.98,ROCK4,B
+550,KAR-ROCK7,M9,,,2021,2023,,R2934,IND - Kararua,"41 Kararua Road, Manutuke",4072,-38.6964689,177.9179136,9,HOWATSON RURAL HOLDINGS LIMITED,Independent Sector,2586,0,0,1.5,ROCK7,D
+551,KAR-ROCK9,M9,,,2021,2023,,R2934,IND - Kararua,"41 Kararua Road, Manutuke",4072,-38.6964689,177.9179136,9,HOWATSON RURAL HOLDINGS LIMITED,Independent Sector,2401,0,0,1.51,ROCK9,D
+552,KAR-ROCK10,M9,,,2021,2023,,R2934,IND - Kararua,"41 Kararua Road, Manutuke",4072,-38.6964689,177.9179136,9,HOWATSON RURAL HOLDINGS LIMITED,Independent Sector,2580,0,0,2.15,RCK10,E
+553,KAR-ROCK8,M9,,,2021,2023,,R2934,IND - Kararua,"41 Kararua Road, Manutuke",4072,-38.6964689,177.9179136,9,HOWATSON RURAL HOLDINGS LIMITED,Independent Sector,2478,0,0,2.15,ROCK8,E
+554,KAR-ROCK1,M9,,,2021,2023,,R2934,IND - Kararua,"41 Kararua Road, Manutuke",4072,-38.6964689,177.9179136,9,HOWATSON RURAL HOLDINGS LIMITED,Independent Sector,2214,0,0,2.13,ROCK1,F
+555,KAR-ROCK3,M9,,,2021,2023,,R2934,IND - Kararua,"41 Kararua Road, Manutuke",4072,-38.6964689,177.9179136,9,HOWATSON RURAL HOLDINGS LIMITED,Independent Sector,2446,0,0,1.95,ROCK3,F
+556,KAR-ROCK5,M9,,,2021,2023,,R2934,IND - Kararua,"41 Kararua Road, Manutuke",4072,-38.6964689,177.9179136,9,HOWATSON RURAL HOLDINGS LIMITED,Independent Sector,2371,0,0,1.98,ROCK5,F
+557,KAR-ROCK6,M9,,,2021,2023,,R2934,IND - Kararua,"41 Kararua Road, Manutuke",4072,-38.6964689,177.9179136,9,HOWATSON RURAL HOLDINGS LIMITED,Independent Sector,2551,0,0,0.61,ROCK6,F
+558,CRO-BLOOM,M9,,,2020,2023,,R2936,IND - Cronien Bun Orchard,"206 Bloomfield Road, Matawhero",Gisborne,,,9,Caithness Ltd (Alistair MacKenzie),Independent Sector,2338,6681,0,2.41,A,A
+559,STR-CAITH,M9,,,2020,2023,,R2937,IND - Stranadariff Orchard,"156 Bloomfield Road, Matawhero, ",Gisborne ,,,9,Caithness Ltd (Alistair MacKenzie),Independent Sector,2628,3176,0,1.19,A,A
+560,TUB-A,M9,,,2022,2023,,R2943,IND - Tubbies Orchard,"158 Kaimoe Road, RD2,  ",Gisborne,,,9,De Costa Orchard,Independent Sector,2417,2618,0,1.32,A,A
+561,TUB-B,M9,,,2022,2023,,R2943,IND - Tubbies Orchard,"158 Kaimoe Road, RD2,  ",Gisborne,,,9,De Costa Orchard,Independent Sector,2234,2618,0,1.32,B,A
+562,TUB-C,M9,,,2022,2023,,R2943,IND - Tubbies Orchard,"158 Kaimoe Road, RD2,  ",Gisborne,,,9,De Costa Orchard,Independent Sector,2525,2618,0,1.32,C,A
+563,TUB-D,M9,,,2022,2023,,R2943,IND - Tubbies Orchard,"158 Kaimoe Road, RD2,  ",Gisborne,,,9,De Costa Orchard,Independent Sector,2313,2618,0,1.32,D,A
+564,SVL-A,M9,,,2021,2023,,R2947,IND - Sun Valley,"859 Wharekopae Road, ",Gisborne RD2,,,9,Lake Road Wines (Andrew Blampied),Independent Sector,2605,10050,0,4.22,A,A
+565,WIP-S1ROC,M9,,,2021,2023,,R2954,IND - Wi Pere Trust,"864 Lavenham Road, ",Gisborne ,-38.5444493,177.8987949,9,Wi Pere Trust,Independent Sector,2391,24000,0,10,S1ROC,A
+566,WIP-S2ROC,M9,,,2022,2023,,R2954,IND - Wi Pere Trust,"864 Lavenham Road, ",Gisborne ,-38.5444493,177.8987949,9,Wi Pere Trust,Independent Sector,2209,24000,0,10,S2ROC,A
+567,BLOCK 30,,3.2,0.8,2021,2023,,R2949,IND - Springhill East,"940 Wakarara Road,  ",Onga Onga,-39.8603719,176.388644,9,Springhill Horticulture Ltd (Craigmore),Independent Sector,2496,14304,0,3.844,30,M
+568,BLOCK 31,,3.2,0.8,2021,2023,,R2949,IND - Springhill East,"940 Wakarara Road,  ",Onga Onga,-39.8603719,176.388644,9,Springhill Horticulture Ltd (Craigmore),Independent Sector,2285,14309,0,3.85,31,N
+569,BLOCK 32,,3.2,0.8,2021,2023,,R2949,IND - Springhill East,"940 Wakarara Road,  ",Onga Onga,-39.8603719,176.388644,9,Springhill Horticulture Ltd (Craigmore),Independent Sector,2575,14798,0,3.99,32,O
+570,BLOCK 36,,3.2,0.8,2021,2023,,R2949,IND - Springhill East,"940 Wakarara Road,  ",Onga Onga,-39.8603719,176.388644,9,Springhill Horticulture Ltd (Craigmore),Independent Sector,2362,14389,0,3.904,36,S
+572,BLOCK 37,,3.2,0.8,2021,2023,,R2949,IND - Springhill East,"940 Wakarara Road,  ",Onga Onga,-39.8603719,176.388644,9,Springhill Horticulture Ltd (Craigmore),Independent Sector,2469,14772,0,3.98,37,T
+573,BRAEMARK-A,,2.8,1.7,2021,2023,,R2933,IND - Braemark,236 Bushmere Road,Gisborne ,,,9,Braemark Vyd,Independent Sector,2259,10738,0,4.93,RKT1,A
+574,BRAEMARK-B,,2.8,1.7,2022,2023,,R2933,IND - Braemark,236 Bushmere Road,Gisborne ,,,9,Braemark Vyd,Independent Sector,2435,6875,0,3.2,RKT2 ,B
+575,8RK1,,2.8,1.6,2021,2023,,R2920,IND - Ngati Pahauwera Commercial Development Ltd,"1513 SH2, Tangoio",Napier,,,9,Ngati Pahauwera Commercial Development Ltd,Independent Sector,2333,6800,0,3.046,P8RK,E
+576,9RK1,,2.8,1.6,2021,2023,,R2920,IND - Ngati Pahauwera Commercial Development Ltd,"1513 SH2, Tangoio",Napier,,,9,Ngati Pahauwera Commercial Development Ltd,Independent Sector,2599,8479,0,3.798,P8RK,E
+577,11RK1,,2.8,1.6,2022,2023,,R2920,IND - Ngati Pahauwera Commercial Development Ltd,"1513 SH2, Tangoio",Napier,,,9,Ngati Pahauwera Commercial Development Ltd,Independent Sector,2328,3635,0,1.628,P11RK,F
+578,13RK1,,2.8,1.6,2021,2023,,R2920,IND - Ngati Pahauwera Commercial Development Ltd,"1513 SH2, Tangoio",Napier,,,9,Ngati Pahauwera Commercial Development Ltd,Independent Sector,2563,6991,0,3.131,P13RK,G
+579,13RK2,,2.8,1.6,2022,2023,,R2920,IND - Ngati Pahauwera Commercial Development Ltd,"1513 SH2, Tangoio",Napier,,,9,Ngati Pahauwera Commercial Development Ltd,Independent Sector,2519,681,0,0.305,P13RK,G
+580,14RK1,,2.8,1.6,2022,2023,,R2920,IND - Ngati Pahauwera Commercial Development Ltd,"1513 SH2, Tangoio",Napier,,,9,Ngati Pahauwera Commercial Development Ltd,Independent Sector,2199,5000,0,2.24,P13RK,G
+581,15RK1,,2.8,1.6,2022,2023,,R2920,IND - Ngati Pahauwera Commercial Development Ltd,"1513 SH2, Tangoio",Napier,,,9,Ngati Pahauwera Commercial Development Ltd,Independent Sector,2459,2227,0,0.998,P13RK,G
+582,16RK1,,2.8,1.6,2022,2023,,R2920,IND - Ngati Pahauwera Commercial Development Ltd,"1513 SH2, Tangoio",Napier,,,9,Ngati Pahauwera Commercial Development Ltd,Independent Sector,2411,10228,0,4.58,P16RK,H
+583,17RK1,,2.8,1.6,2022,2023,,R2920,IND - Ngati Pahauwera Commercial Development Ltd,"1513 SH2, Tangoio",Napier,,,9,Ngati Pahauwera Commercial Development Ltd,Independent Sector,2539,8410,0,3.76,P16RK,H
+584,18RK1,,2.8,1.6,2022,2023,,R2920,IND - Ngati Pahauwera Commercial Development Ltd,"1513 SH2, Tangoio",Napier,,,9,Ngati Pahauwera Commercial Development Ltd,Independent Sector,2379,5909,0,2.647,P18RK,I
+585,19RK1,,2.8,1.6,2022,2023,,R2920,IND - Ngati Pahauwera Commercial Development Ltd,"1513 SH2, Tangoio",Napier,,,9,Ngati Pahauwera Commercial Development Ltd,Independent Sector,2279,8410,0,3.767,P18RK,I
+586,GRA-GCGE  ,CG202,3.8,1.8,2022,2023,,R2895,IND - Grasmere Orchard,34 Grasmere Avenue,Hastings,-39.6438592,176.8863145,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2430,521,0,0.356,C,A
+587,GRA E,CG202,3.6,2,2022,2023,,R2895,IND - Grasmere Orchard,34 Grasmere Avenue,Hastings,-39.6438592,176.8863145,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2274,644,0,0.463,C,A
+588,GRA GK,M793,4.5,2.5,2006,2023,,R2895,IND - Grasmere Orchard,34 Grasmere Avenue,Hastings,-39.6438592,176.8863145,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2618,521,0,0.57,K,A
+589,GRA GMGN,M116,4,2,2020,2023,,R2895,IND - Grasmere Orchard,34 Grasmere Avenue,Hastings,-39.6438592,176.8863145,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2351,328,0,0.26,M,A
+590,GRA GMGN2,M116,4,2,2020,2023,,R2895,IND - Grasmere Orchard,34 Grasmere Avenue,Hastings,-39.6438592,176.8863145,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2587,333,0,0.27,M,A
+591,GRA GT,CG202,4,1.5,2022,2023,,R2895,IND - Grasmere Orchard,34 Grasmere Avenue,Hastings,-39.6438592,176.8863145,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2511,938,0,0.56,T,A
+592,CRY-ROCK,CG202,2.8,1.5,2021,2023,,R1811,IND - Crystall Road,84 Crystall Road,Hastings,-39.6887355,176.821507,9,Armadale Orchard Ltd (Justin Addis),Independent Sector,2247,11874,0,4.987,ROCK,A
+593,SSL - A,,2.8,1.5,2021,2023,,R2779,IND - SSL,"Riverpoint Road, ",Gisborne,-38.661473,177.928916,9,Riverland Fruit Co Ltd (Hamlin),Independent Sector,2479,3600,0,1.512,RK,A
+596,TUK TS,MM106,4.2,2.5,1999,2021,,R1222,IND - Tuki Orchard,"68 Tennant Road, ",Haumoana,-39.63171,176.9254104,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2373,550,0,0.578,S,A
+597,TUK TQTR,M26,4,2,2003,2021,,R1222,IND - Tuki Orchard,"68 Tennant Road, ",Haumoana,-39.63171,176.9254104,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2553,380,0,0.304,Q,B
+598,TUK TATJTO,M9,4,1.8,2000,2021,,R1222,IND - Tuki Orchard,"68 Tennant Road, ",Haumoana,-39.63171,176.9254104,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2453,130,0,0.1,A,A
+599,AWA AA,M116,4.9,1.7,2021,2023,,R1352,IND - Awahou Orchard,290 St Georges Road North,Hastings,-39.6511508,176.8764064,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2298,444,0,0.37,A,A
+600,AWA AE,CG202,3.8,1.6,2021,2023,,R1352,IND - Awahou Orchard,290 St Georges Road North,Hastings,-39.6511508,176.8764064,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2419,400,0,0.243,E,A
+601,AWA AFAO,CG202,3.8,1.6,2021,2023,,R1352,IND - Awahou Orchard,290 St Georges Road North,Hastings,-39.6511508,176.8764064,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2345,1700,0,1.034,F,A
+602,AWA AFAO2,M793,4.9,3.3,1994,2023,,R1352,IND - Awahou Orchard,290 St Georges Road North,Hastings,-39.6511508,176.8764064,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2635,65,0,0.129,F,A
+603,AWA AJ,M793,3.9,1.6,2022,2023,,R1352,IND - Awahou Orchard,290 St Georges Road North,Hastings,-39.6511508,176.8764064,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2314,1748,0,1.097,J,A
+604,AWA AQ,CG202,3.9,1.6,2022,2023,,R1352,IND - Awahou Orchard,290 St Georges Road North,Hastings,-39.6511508,176.8764064,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2270,972,0,0.606,Q,A
+605,AWA AZ,M26,4,2,1994,2023,,R1352,IND - Awahou Orchard,290 St Georges Road North,Hastings,-39.6511508,176.8764064,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2502,875,0,0.7,Z,A
+606,RBK VN,M9,3.5,1.5,2015,2021,,R1632,IND - Riverbank Orchard,44 Tennant Road,Haumoana,-39.6313968,176.9281731,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2210,1893,0,1.1,N,A
+607,RBK VO,MM102,4.1,1.8,2017,2021,,R1632,IND - Riverbank Orchard,44 Tennant Road,Haumoana,-39.6313968,176.9281731,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2609,1149,0,0.847,O,A
+608,ROSEG AI,CG202,3.7,1.8,2022,2023,,R1533,IND - Rosegate Orchard,"265 St Georges Road North, ",Hastings,-39.6491852,176.8778066,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2399,966,0,0.643,I,A
+609,TKTKI A,M9,2.7,1.6,2022,2023,,R1262,IND - Tukituki Orchards,285 Te Mata Mangateretere Road,Hastings,-39.6472349,176.9105188,9,Ngai Tukairangi Trust,Independent Sector,2577,6250,0,2.7,A,A
+610,TKTKI C,,2.7,1.6,2022,2023,,R1262,IND - Tukituki Orchards,285 Te Mata Mangateretere Road,Hastings,-39.6472349,176.9105188,9,Ngai Tukairangi Trust,Independent Sector,2475,6967,0,3.009,C,C
+611,TKTKI D,,2.7,1.6,2022,2023,,R1262,IND - Tukituki Orchards,285 Te Mata Mangateretere Road,Hastings,-39.6472349,176.9105188,9,Ngai Tukairangi Trust,Independent Sector,2294,6951,0,3.002,D,D
+612,TKTKI F,,2.7,1.6,2022,2023,,R1262,IND - Tukituki Orchards,285 Te Mata Mangateretere Road,Hastings,-39.6472349,176.9105188,9,Ngai Tukairangi Trust,Independent Sector,2471,6280,0,2.71,F,F
+613,TKTKI G,,2.7,1.6,2022,2023,,R1262,IND - Tukituki Orchards,285 Te Mata Mangateretere Road,Hastings,-39.6472349,176.9105188,9,Ngai Tukairangi Trust,Independent Sector,2261,2821,0,1.218,G,G
+616,RVA-TR2,CG202,3.5,1.5,2022,2023,,R1021,IND - Riverside Apples,465 Twyford Road,Hastings,-39.582439,176.812768,9,Riverside Apples,Independent Sector,2624,846,0,0,B,A
+617,RVA-TO5,M9,3.3,1.3,2016,2023,,R1021,IND - Riverside Apples,465 Twyford Road,Hastings,-39.582439,176.812768,9,Riverside Apples,Independent Sector,2443,3207,0,1.375803,W,C
+618,RVA-TO8,M.9/Cepiland,3.5,1.5,2020,2023,,R1021,IND - Riverside Apples,465 Twyford Road,Hastings,-39.582439,176.812768,9,Riverside Apples,Independent Sector,2232,665,0,0.349125,Z,C
+619,HUA-B2.2,MM102,4.1,1.8,2018,2021,,R1751,IND - Huawhenua - Home,5 Evans Road,Hastings,-39.5969,176.798588,9,Griffiths Orchards Ltd,Independent Sector,2521,0,0,0,,
+620,OKO-C2,M793,4.3,3,1991,2021,,R1611,IND - Okohua Orchard,383 Twyford Road,Hastings,-39.585562,176.804068,9,Griffiths Orchards Ltd,Independent Sector,2309,0,0,0,,
+621,RIV-B1/1,M793,,,2011,2021,,R1752,IND - Riverside,383 Twyford Road,Hastings,-39.584128,176.807398,9,Griffiths Orchards Ltd,Independent Sector,2602,0,0,0,,
+622,RIV-B2/2,M116,4,2,2016,2021,,R1752,IND - Riverside,383 Twyford Road,Hastings,-39.584128,176.807398,9,Griffiths Orchards Ltd,Independent Sector,2413,0,0,0,,
+623,RIV-C1/1,MM106,5,3,1991,2021,,R1752,IND - Riverside,383 Twyford Road,Hastings,-39.584128,176.807398,9,Griffiths Orchards Ltd,Independent Sector,2206,0,0,0,,
+624,RIV-C1/2,M26,4,1.5,2005,2021,,R1752,IND - Riverside,383 Twyford Road,Hastings,-39.584128,176.807398,9,Griffiths Orchards Ltd,Independent Sector,2493,0,0,0,,
+625,RIV-D2/2,MM106,4.5,2.5,1991,2021,,R1752,IND - Riverside,383 Twyford Road,Hastings,-39.584128,176.807398,9,Griffiths Orchards Ltd,Independent Sector,2281,0,0,0,,
+626,RIV-D2/1,M793,4,2,2007,2021,,R1752,IND - Riverside,383 Twyford Road,Hastings,-39.584128,176.807398,9,Griffiths Orchards Ltd,Independent Sector,2572,0,0,0,,
+628,RPC,,,,2024,2024,,,,,,,,,,RMS Sector,2620,0,0,0,,
+629,KNI-A,M9,2.8,1.6,2022,2024,2D,R2958,IND - Knight Road Horticulture,86 Knight Road ,Gisborne,,,9,The Burnside Trust,Independent Sector,2466,2635,80,4.4,A,D
+630,WLM-A,M9,2.8,1.6,2022,2024,,R2967,IND - Williams Road,78 Williams Road,Gisborne,,,9,Williams Brothers Ltd,Independent Sector,2255,8500,0,3.88,A,A
+631,WLM-B,M9,2.8,1.6,2022,2024,,R2967,IND - Williams Road,78 Williams Road,Gisborne,,,9,Williams Brothers Ltd,Independent Sector,2432,9500,0,4.32,B,B
+633,RAUP  AR1,CG202,1.6,3,2023,2024,,R1875,IND - Raupare,382 TWYFORD ROAD ,HASTINGS,,,9,Ngai Tukairangi Trust,Independent Sector,2595,7083,0,3.4,AR1,A
+634,RAUP CR1,CG202,1.6,3,2023,2024,,R1875,IND - Raupare,382 TWYFORD ROAD ,HASTINGS,,,9,Ngai Tukairangi Trust,Independent Sector,2325,3545,0,1.7,CR1,C
+635,RAUP ER1,CG202,1.6,3,2023,2024,,R1875,IND - Raupare,382 TWYFORD ROAD ,HASTINGS,,,9,Ngai Tukairangi Trust,Independent Sector,2559,1040,0,0.5,ER1,E
+636,RAUP ER2,CG202,1.6,3,2023,2024,,R1875,IND - Raupare,382 TWYFORD ROAD ,HASTINGS,,,9,Ngai Tukairangi Trust,Independent Sector,2515,2291,0,1.1,ER2,E
+637,SNP-1,M9,1.4,2.8,2023,2024,,R2968,IND - Sunpark,123 pitcher Road,Gisbourne,,,9,Waipaoa Horticulture Ltd,Independent Sector,2222,12840,0,5.03,1,A
+638,SNP-2 ,M9,1.4,2.8,2023,2024,,R2968,IND - Sunpark,123 pitcher Road,Gisbourne,,,9,Waipaoa Horticulture Ltd,Independent Sector,2455,7266,0,2.85,2,B
+639,SNP-4,M9,1.4,2.8,2023,2024,,R2968,IND - Sunpark,123 pitcher Road,Gisbourne,,,9,Waipaoa Horticulture Ltd,Independent Sector,2408,1750,0,0.69,4,D
+640,SNP-5,M9,1.4,2.8,2023,2024,,R2968,IND - Sunpark,123 pitcher Road,Gisbourne,,,9,Waipaoa Horticulture Ltd,Independent Sector,2536,6929,0,2.72,5,D
+641,SNP-8,M9,1.4,2.8,2023,2024,,R2968,IND - Sunpark,123 pitcher Road,Gisbourne,,,9,Waipaoa Horticulture Ltd,Independent Sector,2375,8006,0,3.14,8,F
+642,SNP-9,M9,1.4,2.8,2023,2024,,R2968,IND - Sunpark,123 pitcher Road,Gisbourne,,,9,Waipaoa Horticulture Ltd,Independent Sector,2304,8511,0,3.34,9,G
+643,SNP-12,M9,1.4,2.8,2023,2024,,R2968,IND - Sunpark,123 pitcher Road,Gisbourne,,,9,Waipaoa Horticulture Ltd,Independent Sector,2427,2702,0,1.06,12,J
+644,SNP-13,M9,1.4,2.8,2023,2024,,R2968,IND - Sunpark,123 pitcher Road,Gisbourne,,,9,Waipaoa Horticulture Ltd,Independent Sector,2272,7572,0,2.97,13,J
+645,KHK-38,M9,1.6,3.2,2023,2024,,R2969,IND - Kahahakrui,36 Cladwell Road,Ongaonga,,,9,Springhill Horticulture Ltd (Craigmore),Independent Sector,2615,967,0,0.5,38,A
+646,KHK-39,M9,1.6,3.2,2023,2024,,R2969,IND - Kahahakrui,36 Cladwell Road,Ongaonga,,,9,Springhill Horticulture Ltd (Craigmore),Independent Sector,2348,5183,0,2.67,39,A
+647,KHK-40,M9,1.6,3.2,2023,2024,,R2969,IND - Kahahakrui,36 Cladwell Road,Ongaonga,,,9,Springhill Horticulture Ltd (Craigmore),Independent Sector,2610,6716,0,3.45,40,B
+648,KHK-41,M9,1.6,3.2,2023,2024,,R2969,IND - Kahahakrui,36 Cladwell Road,Ongaonga,,,9,Springhill Horticulture Ltd (Craigmore),Independent Sector,2508,4258,0,2.2,41,C
+649,KHK-42,M9,1.6,3.2,2023,2024,,R2969,IND - Kahahakrui,36 Cladwell Road,Ongaonga,,,9,Springhill Horticulture Ltd (Craigmore),Independent Sector,2244,4393,0,2.26,42,D
+650,KHK-43,M9,1.6,3.2,2023,2024,,R2969,IND - Kahahakrui,36 Cladwell Road,Ongaonga,,,9,Springhill Horticulture Ltd (Craigmore),Independent Sector,2477,5161,0,2.66,43,E
+651,KHK-44,M9,1.6,3.2,2023,2024,,R2969,IND - Kahahakrui,36 Cladwell Road,Ongaonga,,,9,Springhill Horticulture Ltd (Craigmore),Independent Sector,2212,6678,0,3.43,44,F
+652,KHK-45,M9,1.6,3.2,2023,2024,,R2969,IND - Kahahakrui,36 Cladwell Road,Ongaonga,,,9,Springhill Horticulture Ltd (Craigmore),Independent Sector,2585,6775,0,3.48,45,G
+653,KHK-46,M9,1.6,3.2,2023,2024,,R2969,IND - Kahahakrui,36 Cladwell Road,Ongaonga,,,9,Springhill Horticulture Ltd (Craigmore),Independent Sector,2370,6760,0,3.48,46,H
+654,KHK-47,M9,1.6,3.2,2023,2024,,R2969,IND - Kahahakrui,36 Cladwell Road,Ongaonga,,,9,Springhill Horticulture Ltd (Craigmore),Independent Sector,2549,5882,0,3.03,47,I
+655,KHK-48,M9,1.6,3.2,2023,2024,,R2969,IND - Kahahakrui,36 Cladwell Road,Ongaonga,,,9,Springhill Horticulture Ltd (Craigmore),Independent Sector,2450,6755,0,3.47,48,J
+656,KHK-49,M9,1.6,3.2,2023,2024,,R2969,IND - Kahahakrui,36 Cladwell Road,Ongaonga,,,9,Springhill Horticulture Ltd (Craigmore),Independent Sector,2296,6796,0,3.49,49,K
+657,KHK-50,M9,1.6,3.2,2023,2024,,R2969,IND - Kahahakrui,36 Cladwell Road,Ongaonga,,,9,Springhill Horticulture Ltd (Craigmore),Independent Sector,2444,5746,0,2.96,50,L
+658,TURLEY A ,M9,1.5,2.8,2023,2024,,,,,,,,,,Independent Sector,2342,10005,0,4.2,A1,A
+659,TURLEY B,M9,1.5,2.8,2023,2024,,,,,,,,,,Independent Sector,2634,13457,0,5.65,B1,A
+660,TURLEY C ,CG202,1.5,2.8,2023,2024,,,,,,,,,,Independent Sector,2311,12593,0,5.29,C1,A
+661,TURLEY D ,CG202,1.5,2.8,2023,2024,,,,,,,,,,Independent Sector,2268,11300,0,4.75,D1,A
+662,SPRING 16,M9,0.8,3.2,2020,2024,,R2897,IND - Springhill west,940 Wakarara Road,OngaOnga,,,9,Springhill Horticulture Ltd (Craigmore),Independent Sector,2530,5743,0,1.45,16,P
+663,WMH-FWEST,M9,1.4,3.5,2023,2024,,R1651,IND - Waimea home,359 brookfields road,Napier,,,9,Waimea Orchards Ltd,Independent Sector,2208,2479,0,1.22,,
+664,RVP-RK,M9,1.6,2.8,2022,2024,,R2695,IND - Riverpoint Rd ,148 riverpoint road,Gisbourne ,,,9,Riverland Fruit Co Ltd (Hamlin),Independent Sector,2608,1700,0,0.7,RK,C
+665,TEWAIRUA-A,M9,1.5,3,2020,2024,,R2915,IND-Te Wairua,266 Lawn Rd,Clive,-39.610119,176.9153762,9,Ngai Tukairangi Trust,Independent Sector,2397,7222,0,3.25,A,A
+666,TEWAIRUA-B,M9,1.5,3,2020,2024,,R2915,IND-Te Wairua,266 Lawn Rd,Clive,-39.610119,176.9153762,9,Ngai Tukairangi Trust,Independent Sector,2574,7222,0,3.25,B,A
+667,WMH-CWEST,CG202,1.1,2.5,2023,2024,,R1651,IND - Waimea home,359 brookfields road,Napier,,,9,Waimea Orchards Ltd,Independent Sector,2500,4588,0,1.76,C,C
+668,WMH-DSOUTH,MM106,1.1,3.5,2023,2024,,R1651,IND - Waimea home,359 brookfields road,Napier,,,9,Waimea Orchards Ltd,Independent Sector,2291,1494,0,0.57,D,D
+669,MASTERS-A,MM106,1.1,3.5,2023,2024,,R1172,IND - Masters block ,135 Sandy Road ,Napier,,,9,Waimea Orchards Ltd,Independent Sector,2468,2506,0,1.35,,
+670,BBO-A,MM106,1.9,4.5,2004,2024,,R1351,IND - black bridge,450 lawn road,hastings 4180,,,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2257,2115,0,1.81,A,A
+672,KKO-A,Cg202,2,3,2023,2024,,R1173,IND - Korokipo orchard,1419 korokipo road,Napier ,,,9,Waima Fruit Company Ltd,Independent Sector,2360,3115,0,1.87,A,A
+673,RBK VB,MM106,4.5,3,2001,2024,,R1632,IND - Riverbank Orchard,44 Tennant Road,Haumoana,-39.6313968,176.9281731,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2597,285,0,0.38,B,A
+674,RBK VHVJ,MM106,4.5,2.5,2001,2024,2D,R1632,IND - Riverbank Orchard,44 Tennant Road,Haumoana,-39.6313968,176.9281731,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2440,474,0,0.53,H,A
+675,HUA-B3,CG202,3.4,1.5,2023,2024,Spindle,R1751,IND - Huawhenua - Home,5 Evans Road,Hastings,-39.5969,176.798588,9,Griffiths Orchards Ltd,Independent Sector,2229,1430,0,0.73,B3,B
+676,AWA AM,,,,2024,2024,,R1352,IND - Awahou Orchard,290 St Georges Road North,Hastings,-39.6511508,176.8764064,9,Irrigation Services Ltd (Adrian Mannering),Independent Sector,2517,0,0,0,M,A
+677,RVA-TD7,cg202,3.5,1.5,2022,2024,,R1021,IND - Riverside Apples,465 Twyford Road,Hastings,-39.582439,176.812768,9,Riverside Apples,Independent Sector,2332,1523,0,0.79,R,B
+678,WAIMA-C,CG202,3,2,2023,2024,,R1096,IND - Waima Orchard ,1495 korokipa Road,Napier 4183,,,9,Waima Fruit Company Ltd,Independent Sector,2569,350,0,0,C,C
+679,HAS SEC,,,,2024,2025,,,,,,,,,,Hastings Sector,2637,0,0,0,,
+680,CRN SEC,,,,2024,2025,,,,,,,,,,Crownthorpe Sector,2638,0,0,0,,
