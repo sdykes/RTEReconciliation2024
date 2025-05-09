@@ -170,7 +170,7 @@ MasterData <- function(SNAPfile,Harvista,Ethrel) {
                         Port = 1433
   )
 
-  OrchardRegisterPS <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLfiles/OrchardRegister.sql")) |>
+  OrchardRegisterPS <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLfiles2024/OrchardRegister.sql")) |>
     ungroup() |>
     group_by(FarmName, PIN, Subdivision) |>
     summarise(Owner = first(Owner),

@@ -11,7 +11,7 @@ con <- DBI::dbConnect(odbc::odbc(),
                       Port = 1433
 )
 
-GBDTeIpu <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLFiles/GraderBatchTeIpu.sql")) |>
+GBDTeIpu <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLFiles2024/GraderBatchTeIpu.sql")) |>
   filter(Season == 2024,
          `Packing site` == "Te Ipu Packhouse (RO)",
          !PresizeInputFlag) |>

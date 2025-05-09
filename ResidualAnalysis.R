@@ -105,7 +105,7 @@ SFResidAdjustGB <- function(SFPackRunWithNormalisedPO,SFResidAdjust,MappedInputB
                         Port = 1433
   )
 
-  GBDSF <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLFiles/GraderBatchTeIpu.sql")) |>
+  GBDSF <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLFiles2024/GraderBatchTeIpu.sql")) |>
     filter(Season == 2024,
            `Packing site` == "Sunfruit Limited",
            !PresizeInputFlag) |>

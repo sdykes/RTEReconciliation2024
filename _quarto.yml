@@ -1,0 +1,10 @@
+project:
+  title: "L&LPresentation"
+  
+bibliography: references.bib
+csl: apa.csl
+
+mainfont: Geograph
+monofont: Geograph
+sansfont: Geograph
+

@@ -2,6 +2,21 @@ library(tidyverse)
 
 SummaryByGB <- function(TrainingTable, TestTable, SFResidAdjust, MappedInputBins, RTEsByPoolWithBulkKgs) {
 
+  source("../CommonFunctions/getSQL.r")
+  
+  con <- DBI::dbConnect(odbc::odbc(),    
+                        Driver = "ODBC Driver 18 for SQL Server", 
+                        Server = "abcrepldb.database.windows.net",  
+                        Database = "ABCPackerRepl",   
+                        UID = "abcadmin",   
+                        PWD = "Trauts2018!",
+                        Port = 1433
+  )
+  
+  GBNoMapping <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLfiles2024/GraderBatchNoMapping.sql"))
+  
+  DBI::dbDisconnect(con)
+  
   TIRawGB <- TrainingTable |>
     mutate(ExportKgs = PackOut*InputKgs) |>
     select(c(GraderBatchID, FarmCode, Orchard, ProductionSite, Owner, 
@@ -12,7 +27,7 @@ SummaryByGB <- function(TrainingTable, TestTable, SFResidAdjust, MappedInputBins
            RAPPO = NA,
            CRAPPO = NA,
            FinalPackOut = PackOut,
-           Source = "Te Ipu")
+           `Packing site` = "Te Ipu")
 
 #
 # Sunfruit Packouts by GraderBatch
@@ -40,7 +55,7 @@ SummaryByGB <- function(TrainingTable, TestTable, SFResidAdjust, MappedInputBins
     mutate(RAPPO = NormSFPackOut*RAPFactor,
            CRAPPO = alpha*RAPPO,
            FinalPackOut = CRAPPO,
-           Source = "Sunfruit Limited") |>
+           `Packing site` = "Sunfruit Limited") |>
     select(-c(RAPFactor))
 
 #
@@ -64,7 +79,9 @@ SummaryByGB <- function(TrainingTable, TestTable, SFResidAdjust, MappedInputBins
            `67A` = `67`*(1-PackoutDiff),
            `72A` = `72`*(1-PackoutDiff),
            BulkA = Bulk*(1-PackoutDiff),
-           BulkKgsA = BulkKgs*(1-PackoutDiff))
+           BulkKgsA = BulkKgs*(1-PackoutDiff)) |>
+    left_join(GBNoMapping, by = "GraderBatchID") |>
+    relocate(GraderBatchNo, .after = GraderBatchID)
 
   return(CombinedBatchedWithRTEs)
   

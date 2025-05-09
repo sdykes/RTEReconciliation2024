@@ -18,15 +18,15 @@ RTEsByPool <- function() {
                         Port = 1433
   )
 
-  BinPresizeOutput <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLfiles/Bin_Presize_Output.sql"))
+  BinPresizeOutput <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLfiles2024/Bin_Presize_Output.sql"))
 
-  OutputFromFieldBins <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLfiles/ma_Output_From_Field_Bins.sql"))  
+  OutputFromFieldBins <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLfiles2024/ma_Output_From_Field_Bins.sql"))  
 
-  GraderBatchRepackProduction <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLfiles/ma_Grader_Batch_Repack_Production.sql"))
+  GraderBatchRepackProduction <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLfiles2024/ma_Grader_Batch_Repack_Production.sql"))
 
-  PoolDefintion <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLfiles/PoolDefinition.sql"))
+  PoolDefintion <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLfiles2024/PoolDefinition.sql"))
 
-  GBD <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLfiles/GraderBatchTeIpu.sql"))
+  GBD <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLfiles2024/GraderBatchTeIpu.sql"))
 
   DBI::dbDisconnect(con)
 
@@ -134,7 +134,7 @@ RTEsByOwner <- function(RTEsByPoolWithBulkKgs) {
                         Port = 1433
   )
   
-  GBD <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLfiles/GraderBatchTeIpu.sql"))
+  GBD <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLfiles2024/GraderBatchTeIpu.sql"))
   
   DBI::dbDisconnect(con)
 

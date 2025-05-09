@@ -6,7 +6,7 @@ library(tidyverse)
 
 SunfruitTable <- function(Sunfruitfile,MasterData) {
 
-  SFPO241121 <- read_csv("data/SunFruitPackOuts241121.csv", show_col_types = F) |>
+  SFPO241121 <- read_csv({{Sunfruitfile}}, show_col_types = F) |>
     filter(BinSource == "Orchard pick") |>
     mutate(PackDate = as.Date(PackDate, "%d/%m/%Y")) |>
     select(-c(BinSource, ContractVendor, RunState, TCEsExport, TCEsLocal, 
@@ -24,7 +24,7 @@ SunfruitTable <- function(Sunfruitfile,MasterData) {
                         Port = 1433
   )
 
-  BinDelivery <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLFiles/BinDelivery.sql"))
+  BinDelivery <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLFiles2024/BinDeliveryRaw.sql"))
 
   BinsTransferredInV2 <- DBI::dbGetQuery(con,
                                          "SELECT 
@@ -82,13 +82,13 @@ SunfruitTable <- function(Sunfruitfile,MasterData) {
                                           WHERE FromStorageSiteCompanyID = 477"
                                         )
 
-  BinsPackedByBinDeliveryID <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLfiles/BinsPackedByBinDeliveryID.sql"))
+  BinsPackedByBinDeliveryID <- DBI::dbGetQuery(con, getSQL("../SQLQueryRepo/SQLfiles2024/BinsPackedByBinDeliveryID.sql"))
 
 
   DBI::dbDisconnect(con)
 
   SFBinreco <- BinDelivery |>
-    filter(StorageSite == "Sunfruit Limited") |>
+    filter(`Storage site` == "Sunfruit Limited") |>
     full_join(BinsTransferredInV2 |> rename(TransferIn = TransferID), by = "BinDeliveryID") |>
     full_join(BinsTransferredOutV2 |> rename(TransferOut = TransferID), by = "BinDeliveryID") |>
     mutate(across(.cols = c(NoOfBins, NoOfBinsTransferredIn, NoOfBinsTransferredOut), ~replace_na(.,0))) |>
@@ -98,7 +98,7 @@ SunfruitTable <- function(Sunfruitfile,MasterData) {
     rename(NoOfBins = NoOfBinsReco) |>
     left_join(BinsPackedByBinDeliveryID, by = "BinDeliveryID") |>
     filter(NoOfBins != 0,
-           !is.na(FarmCode)) 
+           !is.na(RPIN)) 
 
   SFRunReco <- SFBinreco |>
     mutate(Run = case_when(BinDeliveryID %in% c(12518,11080,13295) ~ "P1569",
@@ -357,7 +357,7 @@ RunReco <- SFPO241121 |>
   return(TestTable)
 }
 
-TestTable <- SunfruitTable("data/SunFruitPackOut241121.csv",MasterDataByPS)
+TestTable <- SunfruitTable("data/SunFruitPackOuts241121.csv",MasterDataByPS)
 
 FinalTestTable <- TestTable |>
   select(-c(Run, Bins, Orchard, FarmCode, ProductionSite, Owner, PackDate, HarvestDate)) |>
